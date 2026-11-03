@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Disease Q&amp;A Chatbot</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <aside class="sidebar">
+    <div class="brand">
+      <div class="brand-mark" aria-hidden="true">+</div>
+      <div>
+        <strong>CareGuide</strong>
+        <span>Knowledge assistant</span>
+      </div>
+    </div>
+    <div class="sidebar-heading">
+      <div>
+        <h2>Browse conditions</h2>
+        <p class="hint">Choose a condition to start exploring.</p>
+      </div>
+      <span id="disease-count" class="count-badge">—</span>
+    </div>
+    <label class="search-box" for="filter">
+      <span aria-hidden="true">⌕</span>
+      <input id="filter" type="search" placeholder="Search conditions..." autocomplete="off">
+    </label>
+    <ul id="disease-list" aria-label="Conditions"></ul>
+    <p id="no-results" class="no-results" hidden>No conditions match your search.</p>
+    <p class="disclaimer"><strong>Educational use only.</strong> This synthetic information is not medical advice.</p>
+  </aside>
+
+  <main class="chat">
+    <header class="chat-header">
+      <div>
+        <p class="eyebrow">YOUR HEALTH COMPANION</p>
+        <h1>Ask with confidence.</h1>
+      </div>
+      <div class="online-status"><span></span> Ready to help</div>
+    </header>
+    <div id="messages" class="messages" aria-live="polite">
+      <section class="welcome-card">
+        <div class="welcome-icon" aria-hidden="true">✦</div>
+        <p class="eyebrow">WELCOME</p>
+        <h2>Which disease would you like to know about?</h2>
+        <p>Ask about any condition in the knowledge base. Your answer will follow the fine-tuned format with clear sections for the disease, symptoms, causes, prescription, and treatment.</p>
+        <div class="answer-format" aria-label="Answer sections">
+          <span>Disease</span><span>Symptoms</span><span>Causes</span><span>Prescription</span><span>Treatment</span>
+        </div>
+        <div class="suggestions" aria-label="Suggested questions">
+          <button type="button" data-question="What are the symptoms of Asthma?">Symptoms of Asthma <span>→</span></button>
+          <button type="button" data-question="What causes Diabetes?">Causes of Diabetes <span>→</span></button>
+          <button type="button" data-question="Tell me about Migraine.">About Migraine <span>→</span></button>
+        </div>
+      </section>
+    </div>
+    <form id="composer" class="composer">
+      <div class="composer-field">
+        <input id="input" type="text" placeholder="Ask about a condition..." autocomplete="off" required aria-label="Your question">
+        <span class="shortcut">Enter ↵</span>
+      </div>
+      <button id="send" type="submit"><span>Ask question</span><span aria-hidden="true">↗</span></button>
+      <p class="composer-note">For educational purposes only · Not a substitute for professional care</p>
+    </form>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>

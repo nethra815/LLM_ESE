@@ -1,0 +1,1301 @@
+disease,seen,retrieved_ok,structure_raw,structure_clean,name_ok,passed_raw,passed_clean,answer_raw,answer_clean
+Type 2 Diabetes,True,True,1.0,1.0,True,True,True,"**Disease:** Type 2 Diabetes
+**Symptoms:** increased thirst, frequent urination, fatigue, blurred vision.
+**Causes:** insulin resistance, excess body weight, physical inactivity.
+**Prescription:** metformin (generic), dose set by a doctor.
+**Treatment:** balanced diet, regular exercise, blood sugar monitoring.
+
+*Synthetic educational data, not medical advice.*","**Disease:** Type 2 Diabetes
+**Symptoms:** increased thirst, frequent urination, fatigue, blurred vision.
+**Causes:** insulin resistance, excess body weight, physical inactivity.
+**Prescription:** metformin (generic), dose set by a doctor.
+**Treatment:** balanced diet, regular exercise, blood sugar monitoring.
+
+*Synthetic educational data, not medical advice.*"
+Hypertension,True,True,1.0,1.0,True,True,True,"**Disease:** Hypertension
+**Symptoms:** often no symptoms, headache, dizziness, nosebleeds in severe cases.
+**Causes:** high salt intake, obesity, ageing, chronic stress.
+**Prescription:** amlodipine or losartan (generic), dose set by a doctor.
+**Treatment:** low-salt diet, regular exercise, limiting alcohol, regular blood pressure checks.
+
+*Synthetic educational data, not medical advice.*","**Disease:** Hypertension
+**Symptoms:** often no symptoms, headache, dizziness, nosebleeds in severe cases.
+**Causes:** high salt intake, obesity, ageing, chronic stress.
+**Prescription:** amlodipine or losartan (generic), dose set by a doctor.
+**Treatment:** low-salt diet, regular exercise, limiting alcohol, regular blood pressure checks.
+
+*Synthetic educational data, not medical advice.*"
+Asthma,True,True,1.0,1.0,True,True,True,"**Disease:** Asthma
+**Symptoms:** wheezing, shortness of breath, chest tightness, night-time cough.
+**Causes:** allergens, respiratory infections, air pollution, genetic predisposition.
+**Prescription:** salbutamol reliever and inhaled corticosteroid controller.
+**Treatment:** avoiding triggers, asthma action plan, correct inhaler technique.
+
+*Synthetic educational data, not medical advice.*","**Disease:** Asthma
+**Symptoms:** wheezing, shortness of breath, chest tightness, night-time cough.
+**Causes:** allergens, respiratory infections, air pollution, genetic predisposition.
+**Prescription:** salbutamol reliever and inhaled corticosteroid controller.
+**Treatment:** avoiding triggers, asthma action plan, correct inhaler technique.
+
+*Synthetic educational data, not medical advice.*"
+Migraine,True,True,1.0,1.0,True,True,True,"**Disease:** Migraine
+**Symptoms:** throbbing one-sided headache, nausea, light sensitivity.
+**Causes:** hormonal changes, poor sleep, stress, certain foods.
+**Prescription:** sumatriptan (generic) for attacks, dose set by a doctor.
+**Treatment:** rest in a dark room, regular sleep, hydration, trigger diary.
+
+*Synthetic educational data, not medical advice.*","**Disease:** Migraine
+**Symptoms:** throbbing one-sided headache, nausea, light sensitivity.
+**Causes:** hormonal changes, poor sleep, stress, certain foods.
+**Prescription:** sumatriptan (generic) for attacks, dose set by a doctor.
+**Treatment:** rest in a dark room, regular sleep, hydration, trigger diary.
+
+*Synthetic educational data, not medical advice.*"
+Urinary Tract Infection,True,True,1.0,1.0,True,True,True,"**Disease:** Urinary Tract Infection
+**Symptoms:** burning urination, frequent urge to urinate, cloudy urine.
+**Causes:** bacteria such as E. coli entering the urinary tract.
+**Prescription:** nitrofurantoin or trimethoprim (generic) course, as prescribed.
+**Treatment:** completing the full course, drinking plenty of water.
+
+*Synthetic educational data, not medical advice.*","**Disease:** Urinary Tract Infection
+**Symptoms:** burning urination, frequent urge to urinate, cloudy urine.
+**Causes:** bacteria such as E. coli entering the urinary tract.
+**Prescription:** nitrofurantoin or trimethoprim (generic) course, as prescribed.
+**Treatment:** completing the full course, drinking plenty of water.
+
+*Synthetic educational data, not medical advice.*"
+Iron-Deficiency Anemia,True,True,1.0,1.0,True,True,True,"**Disease:** Iron-Deficiency Anemia
+**Symptoms:** tiredness, pale skin, dizziness, brittle nails.
+**Causes:** low iron intake, heavy menstrual bleeding, blood loss.
+**Prescription:** oral ferrous sulfate (generic), dose set by a doctor.
+**Treatment:** iron-rich foods, vitamin C with meals, follow-up blood tests.
+
+*Synthetic educational data, not medical advice.*","**Disease:** Iron-Deficiency Anemia
+**Symptoms:** tiredness, pale skin, dizziness, brittle nails.
+**Causes:** low iron intake, heavy menstrual bleeding, blood loss.
+**Prescription:** oral ferrous sulfate (generic), dose set by a doctor.
+**Treatment:** iron-rich foods, vitamin C with meals, follow-up blood tests.
+
+*Synthetic educational data, not medical advice.*"
+Dengue Fever,True,True,1.0,1.0,True,True,True,"**Disease:** Dengue Fever
+**Symptoms:** high fever, severe headache, pain behind the eyes, rash.
+**Causes:** dengue virus transmitted by Aedes mosquito bites.
+**Prescription:** paracetamol for fever; avoid aspirin and ibuprofen.
+**Treatment:** rest, oral fluids, platelet monitoring, urgent care for warning signs.
+
+*Synthetic educational data, not medical advice.*","**Disease:** Dengue Fever
+**Symptoms:** high fever, severe headache, pain behind the eyes, rash.
+**Causes:** dengue virus transmitted by Aedes mosquito bites.
+**Prescription:** paracetamol for fever; avoid aspirin and ibuprofen.
+**Treatment:** rest, oral fluids, platelet monitoring, urgent care for warning signs.
+
+*Synthetic educational data, not medical advice.*"
+GERD,True,True,1.0,1.0,True,True,True,"**Disease:** GERD
+**Symptoms:** heartburn, sour taste, regurgitation, chest discomfort after meals.
+**Causes:** weak lower oesophageal sphincter, obesity, large meals.
+**Prescription:** omeprazole (generic), dose set by a doctor.
+**Treatment:** smaller meals, not lying down after eating, raising the head of the bed.
+
+*Synthetic educational data, not medical advice.*","**Disease:** GERD
+**Symptoms:** heartburn, sour taste, regurgitation, chest discomfort after meals.
+**Causes:** weak lower oesophageal sphincter, obesity, large meals.
+**Prescription:** omeprazole (generic), dose set by a doctor.
+**Treatment:** smaller meals, not lying down after eating, raising the head of the bed.
+
+*Synthetic educational data, not medical advice.*"
+Hypothyroidism,True,True,1.0,1.0,True,True,True,"**Disease:** Hypothyroidism
+**Symptoms:** weight gain, constipation, cold intolerance, dry skin, fatigue.
+**Causes:** Hashimoto thyroiditis, iodine deficiency, thyroid surgery.
+**Prescription:** levothyroxine (generic), dose set by a doctor.
+**Treatment:** daily dose on an empty stomach, periodic TSH blood tests.
+
+*Synthetic educational data, not medical advice.*","**Disease:** Hypothyroidism
+**Symptoms:** weight gain, constipation, cold intolerance, dry skin, fatigue.
+**Causes:** Hashimoto thyroiditis, iodine deficiency, thyroid surgery.
+**Prescription:** levothyroxine (generic), dose set by a doctor.
+**Treatment:** daily dose on an empty stomach, periodic TSH blood tests.
+
+*Synthetic educational data, not medical advice.*"
+Scabies,True,True,1.0,1.0,True,True,True,"**Disease:** Scabies
+**Symptoms:** intense itching worse at night, rash with small bumps or burrow tracks.
+**Causes:** mite Sarcoptes scabiei spread by prolonged skin contact.
+**Prescription:** permethrin 5% cream (generic), as directed.
+**Treatment:** treating the whole body, washing bedding, treating close contacts.
+
+*Synthetic educational data, not medical advice.*","**Disease:** Scabies
+**Symptoms:** intense itching worse at night, rash with small bumps or burrow tracks.
+**Causes:** mite Sarcoptes scabiei spread by prolonged skin contact.
+**Prescription:** permethrin 5% cream (generic), as directed.
+**Treatment:** treating the whole body, washing bedding, treating close contacts.
+
+*Synthetic educational data, not medical advice.*"
+Pneumonia,False,True,1.0,1.0,True,True,True,"**Disease:** Pneumonia
+**Symptoms:** cough with phlegm, fever, chest pain on breathing, breathlessness.
+**Causes:** streptococcus pneumoniae and other bacteria, viruses.
+**Prescription:** amoxicillin (generic) for mild cases, as prescribed.
+**Treatment:** rest, fluids, vaccination against pneumococcus and influenza.
+
+*Synthetic educational data, not medical advice.*","**Disease:** Pneumonia
+**Symptoms:** cough with phlegm, fever, chest pain on breathing, breathlessness.
+**Causes:** streptococcus pneumoniae and other bacteria, viruses.
+**Prescription:** amoxicillin (generic) for mild cases, as prescribed.
+**Treatment:** rest, fluids, vaccination against pneumococcus and influenza.
+
+*Synthetic educational data, not medical advice.*"
+Tuberculosis,False,True,1.0,1.0,True,True,True,"**Disease:** Tuberculosis
+**Symptoms:** cough lasting over three weeks, night sweats, weight loss, fever.
+**Causes:** Mycobacterium tuberculosis spread by airborne droplets.
+**Prescription:** isoniazid, rifampicin, pyrazinamide and ethambutol combination, as prescribed.
+**Treatment:** completing about six months of treatment, contact tracing.
+
+*Synthetic educational data, not medical advice.*","**Disease:** Tuberculosis
+**Symptoms:** cough lasting over three weeks, night sweats, weight loss, fever.
+**Causes:** Mycobacterium tuberculosis spread by airborne droplets.
+**Prescription:** isoniazid, rifampicin, pyrazinamide and ethambutol combination, as prescribed.
+**Treatment:** completing about six months of treatment, contact tracing.
+
+*Synthetic educational data, not medical advice.*"
+Malaria,False,True,1.0,1.0,True,True,True,"**Disease:** Malaria
+**Symptoms:** cyclical fever, chills, sweating, headache, muscle aches.
+**Causes:** Plasmodium parasites transmitted by infected Anopheles mosquitoes.
+**Prescription:** artemisinin-based combination therapy, as prescribed.
+**Treatment:** bed nets, insecticide spraying, prophylaxis for travellers.
+
+*Synthetic educational data, not medical advice.*","**Disease:** Malaria
+**Symptoms:** cyclical fever, chills, sweating, headache, muscle aches.
+**Causes:** Plasmodium parasites transmitted by infected Anopheles mosquitoes.
+**Prescription:** artemisinin-based combination therapy, as prescribed.
+**Treatment:** bed nets, insecticide spraying, prophylaxis for travellers.
+
+*Synthetic educational data, not medical advice.*"
+Typhoid Fever,False,True,1.0,1.0,True,True,True,"**Disease:** Typhoid Fever
+**Symptoms:** sustained fever, abdominal pain, headache, constipation or diarrhoea.
+**Causes:** Salmonella Typhi from contaminated food and water.
+**Prescription:** azithromycin or ceftriaxone, as prescribed.
+**Treatment:** safe drinking water, handwashing, typhoid vaccination.
+
+*Synthetic educational data, not medical advice.*","**Disease:** Typhoid Fever
+**Symptoms:** sustained fever, abdominal pain, headache, constipation or diarrhoea.
+**Causes:** Salmonella Typhi from contaminated food and water.
+**Prescription:** azithromycin or ceftriaxone, as prescribed.
+**Treatment:** safe drinking water, handwashing, typhoid vaccination.
+
+*Synthetic educational data, not medical advice.*"
+Chickenpox,False,True,1.0,1.0,True,True,True,"**Disease:** Chickenpox
+**Symptoms:** mild fever, itchy blister rash that crusts over.
+**Causes:** varicella-zoster virus spread by droplets and contact.
+**Prescription:** paracetamol for fever, antihistamines for itch.
+**Treatment:** calamine lotion, short nails, varicella vaccination.
+
+*Synthetic educational data, not medical advice.*","**Disease:** Chickenpox
+**Symptoms:** mild fever, itchy blister rash that crusts over.
+**Causes:** varicella-zoster virus spread by droplets and contact.
+**Prescription:** paracetamol for fever, antihistamines for itch.
+**Treatment:** calamine lotion, short nails, varicella vaccination.
+
+*Synthetic educational data, not medical advice.*"
+Influenza,False,True,1.0,1.0,True,True,True,"**Disease:** Influenza
+**Symptoms:** sudden fever, cough, sore throat, body aches, fatigue.
+**Causes:** influenza A and B viruses spread by droplets.
+**Prescription:** oseltamivir (generic) if started early, as prescribed.
+**Treatment:** rest, fluids, annual vaccination, hand hygiene.
+
+*Synthetic educational data, not medical advice.*","**Disease:** Influenza
+**Symptoms:** sudden fever, cough, sore throat, body aches, fatigue.
+**Causes:** influenza A and B viruses spread by droplets.
+**Prescription:** oseltamivir (generic) if started early, as prescribed.
+**Treatment:** rest, fluids, annual vaccination, hand hygiene.
+
+*Synthetic educational data, not medical advice.*"
+Hepatitis B,False,True,1.0,1.0,True,True,True,"**Disease:** Hepatitis B
+**Symptoms:** jaundice, dark urine, fatigue, abdominal pain.
+**Causes:** hepatitis B virus spread by blood, sex and mother to child.
+**Prescription:** tenofovir or entecavir for chronic infection, as prescribed.
+**Treatment:** hepatitis B vaccination, liver function monitoring.
+
+*Synthetic educational data, not medical advice.*","**Disease:** Hepatitis B
+**Symptoms:** jaundice, dark urine, fatigue, abdominal pain.
+**Causes:** hepatitis B virus spread by blood, sex and mother to child.
+**Prescription:** tenofovir or entecavir for chronic infection, as prescribed.
+**Treatment:** hepatitis B vaccination, liver function monitoring.
+
+*Synthetic educational data, not medical advice.*"
+Osteoarthritis,False,True,1.0,1.0,True,True,True,"**Disease:** Osteoarthritis
+**Symptoms:** joint pain worsening with activity, morning stiffness, reduced movement.
+**Causes:** cartilage wear with ageing, obesity, joint injury.
+**Prescription:** paracetamol or topical NSAID gel, as directed.
+**Treatment:** weight loss, physiotherapy, low-impact exercise.
+
+*Synthetic educational data, not medical advice.*","**Disease:** Osteoarthritis
+**Symptoms:** joint pain worsening with activity, morning stiffness, reduced movement.
+**Causes:** cartilage wear with ageing, obesity, joint injury.
+**Prescription:** paracetamol or topical NSAID gel, as directed.
+**Treatment:** weight loss, physiotherapy, low-impact exercise.
+
+*Synthetic educational data, not medical advice.*"
+Rheumatoid Arthritis,False,True,1.0,1.0,True,True,True,"**Disease:** Rheumatoid Arthritis
+**Symptoms:** symmetric swollen painful joints, morning stiffness.
+**Causes:** autoimmune reaction in the joint lining, genetics, smoking.
+**Prescription:** methotrexate (generic) as a disease-modifying drug.
+**Treatment:** early specialist review, physiotherapy, biologics when needed.
+
+*Synthetic educational data, not medical advice.*","**Disease:** Rheumatoid Arthritis
+**Symptoms:** symmetric swollen painful joints, morning stiffness.
+**Causes:** autoimmune reaction in the joint lining, genetics, smoking.
+**Prescription:** methotrexate (generic) as a disease-modifying drug.
+**Treatment:** early specialist review, physiotherapy, biologics when needed.
+
+*Synthetic educational data, not medical advice.*"
+Gout,False,True,1.0,1.0,True,True,True,"**Disease:** Gout
+**Symptoms:** sudden severe pain and swelling of the big toe, redness.
+**Causes:** uric acid crystal buildup, high purine diet, alcohol.
+**Prescription:** colchicine or NSAIDs for attacks, allopurinol for prevention.
+**Treatment:** hydration, limiting alcohol and sugary drinks, diet changes.
+
+*Synthetic educational data, not medical advice.*","**Disease:** Gout
+**Symptoms:** sudden severe pain and swelling of the big toe, redness.
+**Causes:** uric acid crystal buildup, high purine diet, alcohol.
+**Prescription:** colchicine or NSAIDs for attacks, allopurinol for prevention.
+**Treatment:** hydration, limiting alcohol and sugary drinks, diet changes.
+
+*Synthetic educational data, not medical advice.*"
+Coronary Artery Disease,False,True,1.0,1.0,True,True,True,"**Disease:** Coronary Artery Disease
+**Symptoms:** chest pressure on exertion, breathlessness, fatigue.
+**Causes:** plaque buildup in heart arteries, high cholesterol, smoking.
+**Prescription:** atorvastatin (generic) and aspirin, as prescribed.
+**Treatment:** exercise, healthy diet, quitting smoking, cardiac rehabilitation.
+
+*Synthetic educational data, not medical advice.*","**Disease:** Coronary Artery Disease
+**Symptoms:** chest pressure on exertion, breathlessness, fatigue.
+**Causes:** plaque buildup in heart arteries, high cholesterol, smoking.
+**Prescription:** atorvastatin (generic) and aspirin, as prescribed.
+**Treatment:** exercise, healthy diet, quitting smoking, cardiac rehabilitation.
+
+*Synthetic educational data, not medical advice.*"
+Stroke,False,True,1.0,1.0,True,True,True,"**Disease:** Stroke
+**Symptoms:** sudden face droop, arm weakness, slurred speech, confusion.
+**Causes:** blocked or burst blood vessel in the brain.
+**Prescription:** clot-dissolving drugs or antiplatelets, as prescribed.
+**Treatment:** urgent emergency care, blood pressure control, rehabilitation.
+
+*Synthetic educational data, not medical advice.*","**Disease:** Stroke
+**Symptoms:** sudden face droop, arm weakness, slurred speech, confusion.
+**Causes:** blocked or burst blood vessel in the brain.
+**Prescription:** clot-dissolving drugs or antiplatelets, as prescribed.
+**Treatment:** urgent emergency care, blood pressure control, rehabilitation.
+
+*Synthetic educational data, not medical advice.*"
+Chronic Kidney Disease,False,True,1.0,1.0,True,True,True,"**Disease:** Chronic Kidney Disease
+**Symptoms:** swelling in legs, fatigue, reduced urine, itching.
+**Causes:** diabetes, hypertension, glomerulonephritis.
+**Prescription:** ACE inhibitor or ARB (generic) to protect kidneys.
+**Treatment:** blood sugar and blood pressure control, low-salt diet, regular monitoring.
+
+*Synthetic educational data, not medical advice.*","**Disease:** Chronic Kidney Disease
+**Symptoms:** swelling in legs, fatigue, reduced urine, itching.
+**Causes:** diabetes, hypertension, glomerulonephritis.
+**Prescription:** ACE inhibitor or ARB (generic) to protect kidneys.
+**Treatment:** blood sugar and blood pressure control, low-salt diet, regular monitoring.
+
+*Synthetic educational data, not medical advice.*"
+Epilepsy,False,True,1.0,1.0,True,True,True,"**Disease:** Epilepsy
+**Symptoms:** recurrent seizures, staring spells, brief loss of awareness.
+**Causes:** genetic factors, brain injury, stroke, infection.
+**Prescription:** levetiracetam or carbamazepine (generic), dose set by a specialist.
+**Treatment:** consistent medication, avoiding sleep deprivation, driving restrictions.
+
+*Synthetic educational data, not medical advice.*","**Disease:** Epilepsy
+**Symptoms:** recurrent seizures, staring spells, brief loss of awareness.
+**Causes:** genetic factors, brain injury, stroke, infection.
+**Prescription:** levetiracetam or carbamazepine (generic), dose set by a specialist.
+**Treatment:** consistent medication, avoiding sleep deprivation, driving restrictions.
+
+*Synthetic educational data, not medical advice.*"
+Depression,False,True,1.0,1.0,True,True,True,"**Disease:** Depression
+**Symptoms:** persistent low mood, loss of interest, sleep and appetite changes, fatigue.
+**Causes:** biological, psychological and social factors, life stress.
+**Prescription:** SSRI antidepressant such as sertraline (generic), as prescribed.
+**Treatment:** cognitive behavioural therapy, exercise, social support.
+
+*Synthetic educational data, not medical advice.*","**Disease:** Depression
+**Symptoms:** persistent low mood, loss of interest, sleep and appetite changes, fatigue.
+**Causes:** biological, psychological and social factors, life stress.
+**Prescription:** SSRI antidepressant such as sertraline (generic), as prescribed.
+**Treatment:** cognitive behavioural therapy, exercise, social support.
+
+*Synthetic educational data, not medical advice.*"
+Glaucoma,False,True,1.0,1.0,True,True,True,"**Disease:** Glaucoma
+**Symptoms:** gradual loss of peripheral vision, often without pain.
+**Causes:** raised eye pressure damaging the optic nerve, family history.
+**Prescription:** prostaglandin analogue or beta-blocker eye drops, along with regular eye checks, laser treatment or surgery if drops fail.
+**Treatment:** regular eye checks, laser treatment or surgery if drops fail.
+
+*Synthetic educational data, not medical advice.*","**Disease:** Glaucoma
+**Symptoms:** gradual loss of peripheral vision, often without pain.
+**Causes:** raised eye pressure damaging the optic nerve, family history.
+**Prescription:** prostaglandin analogue or beta-blocker eye drops, along with regular eye checks, laser treatment or surgery if drops fail.
+**Treatment:** regular eye checks, laser treatment or surgery if drops fail.
+
+*Synthetic educational data, not medical advice.*"
+Cataract,False,True,0.8,0.8,True,False,False,"**Disease:** Cataract
+**Symptoms:** blurred vision, glare, faded colours, night-time difficulty.
+**Causes:** ageing, diabetes, eye injury, long-term steroid use.
+**Prescription:** no drug treatment; surgery when vision is affected, along with stronger glasses early, lens replacement surgery.
+
+*Synthetic educational data, not medical advice.*","**Disease:** Cataract
+**Symptoms:** blurred vision, glare, faded colours, night-time difficulty.
+**Causes:** ageing, diabetes, eye injury, long-term steroid use.
+**Prescription:** no drug treatment; surgery when vision is affected, along with stronger glasses early, lens replacement surgery.
+
+*Synthetic educational data, not medical advice.*"
+Psoriasis,False,True,1.0,1.0,True,True,True,"**Disease:** Psoriasis
+**Symptoms:** thick red scaly patches on elbows, knees and scalp, itching.
+**Causes:** immune-driven skin cell overproduction, genetics, triggers.
+**Prescription:** topical corticosteroid or vitamin D cream, as directed.
+**Treatment:** moisturising, phototherapy, biologics for severe cases.
+
+*Synthetic educational data, not medical advice.*","**Disease:** Psoriasis
+**Symptoms:** thick red scaly patches on elbows, knees and scalp, itching.
+**Causes:** immune-driven skin cell overproduction, genetics, triggers.
+**Prescription:** topical corticosteroid or vitamin D cream, as directed.
+**Treatment:** moisturising, phototherapy, biologics for severe cases.
+
+*Synthetic educational data, not medical advice.*"
+Eczema,False,True,1.0,1.0,True,True,True,"**Disease:** Eczema
+**Symptoms:** dry itchy red patches, cracking, weeping skin.
+**Causes:** skin barrier defect, allergy, genetics, irritants.
+**Prescription:** topical corticosteroid or calcineurin inhibitor during flares.
+**Treatment:** daily emollients, avoiding triggers, lukewarm bathing.
+
+*Synthetic educational data, not medical advice.*","**Disease:** Eczema
+**Symptoms:** dry itchy red patches, cracking, weeping skin.
+**Causes:** skin barrier defect, allergy, genetics, irritants.
+**Prescription:** topical corticosteroid or calcineurin inhibitor during flares.
+**Treatment:** daily emollients, avoiding triggers, lukewarm bathing.
+
+*Synthetic educational data, not medical advice.*"
+Conjunctivitis,False,True,1.0,1.0,True,True,True,"**Disease:** Conjunctivitis
+**Symptoms:** red itchy eye, watery or sticky discharge, gritty feeling.
+**Causes:** viral or bacterial infection, or allergy.
+**Prescription:** antibiotic eye drops for bacterial cases, antihistamine drops for allergy, with cool compresses, artificial tears.
+**Treatment:** cool compresses, artificial tears, good hand hygiene.
+
+*Synthetic educational data, not medical advice.*","**Disease:** Conjunctivitis
+**Symptoms:** red itchy eye, watery or sticky discharge, gritty feeling.
+**Causes:** viral or bacterial infection, or allergy.
+**Prescription:** antibiotic eye drops for bacterial cases, antihistamine drops for allergy, with cool compresses, artificial tears.
+**Treatment:** cool compresses, artificial tears, good hand hygiene.
+
+*Synthetic educational data, not medical advice.*"
+Otitis Media,False,True,1.0,1.0,True,True,True,"**Disease:** Otitis Media
+**Symptoms:** ear pain, fever, irritability, poor sleep.
+**Causes:** Eustachian tube blockage after a cold, bacterial infection.
+**Prescription:** paracetamol or ibuprofen for pain, amoxicillin if severe.
+**Treatment:** pain relief, follow-up if symptoms persist.
+
+*Synthetic educational data, not medical advice.*","**Disease:** Otitis Media
+**Symptoms:** ear pain, fever, irritability, poor sleep.
+**Causes:** Eustachian tube blockage after a cold, bacterial infection.
+**Prescription:** paracetamol or ibuprofen for pain, amoxicillin if severe.
+**Treatment:** pain relief, follow-up if symptoms persist.
+
+*Synthetic educational data, not medical advice.*"
+Celiac Disease,False,True,1.0,1.0,True,True,True,"**Disease:** Celiac Disease
+**Symptoms:** diarrhoea, bloating, weight loss, anaemia.
+**Causes:** autoimmune reaction to gluten in the small intestine.
+**Prescription:** no drug treatment.
+**Treatment:** strict gluten-free diet, along with lifelong gluten avoidance, nutritional monitoring.
+
+*Synthetic educational data, not medical advice.*","**Disease:** Celiac Disease
+**Symptoms:** diarrhoea, bloating, weight loss, anaemia.
+**Causes:** autoimmune reaction to gluten in the small intestine.
+**Prescription:** no drug treatment.
+**Treatment:** strict gluten-free diet, along with lifelong gluten avoidance, nutritional monitoring.
+
+*Synthetic educational data, not medical advice.*"
+Irritable Bowel Syndrome,False,True,1.0,1.0,True,True,True,"**Disease:** Irritable Bowel Syndrome
+**Symptoms:** abdominal cramps, bloating, alternating diarrhoea and constipation.
+**Causes:** gut-brain interaction, stress, food triggers.
+**Prescription:** antispasmodic or fibre supplements, as prescribed.
+**Treatment:** low-FODMAP diet under guidance, stress management, regular exercise.
+
+*Synthetic educational data, not medical advice.*","**Disease:** Irritable Bowel Syndrome
+**Symptoms:** abdominal cramps, bloating, alternating diarrhoea and constipation.
+**Causes:** gut-brain interaction, stress, food triggers.
+**Prescription:** antispasmodic or fibre supplements, as prescribed.
+**Treatment:** low-FODMAP diet under guidance, stress management, regular exercise.
+
+*Synthetic educational data, not medical advice.*"
+Anxiety Disorder,False,True,1.0,1.0,True,True,True,"**Disease:** Anxiety Disorder
+**Symptoms:** excessive worry, restlessness, racing heart, poor concentration.
+**Causes:** genetics, stress, personality, substance use.
+**Prescription:** SSRI such as escitalopram (generic), as prescribed.
+**Treatment:** cognitive behavioural therapy, relaxation techniques, limiting caffeine.
+
+*Synthetic educational data, not medical advice.*","**Disease:** Anxiety Disorder
+**Symptoms:** excessive worry, restlessness, racing heart, poor concentration.
+**Causes:** genetics, stress, personality, substance use.
+**Prescription:** SSRI such as escitalopram (generic), as prescribed.
+**Treatment:** cognitive behavioural therapy, relaxation techniques, limiting caffeine.
+
+*Synthetic educational data, not medical advice.*"
+Bronchitis,False,True,1.0,1.0,True,True,True,"**Disease:** Bronchitis
+**Symptoms:** persistent cough with mucus, chest discomfort, mild fever.
+**Causes:** viral infection, smoking, air pollution.
+**Prescription:** salbutamol inhaler if wheezing, as directed.
+**Treatment:** rest, fluids, stopping smoking, humidified air.
+
+*Synthetic educational data, not medical advice.*","**Disease:** Bronchitis
+**Symptoms:** persistent cough with mucus, chest discomfort, mild fever.
+**Causes:** viral infection, smoking, air pollution.
+**Prescription:** salbutamol inhaler if wheezing, as directed.
+**Treatment:** rest, fluids, stopping smoking, humidified air.
+
+*Synthetic educational data, not medical advice.*"
+Sinusitis,False,True,1.0,1.0,True,True,True,"**Disease:** Sinusitis
+**Symptoms:** facial pressure, blocked nose, thick discharge, reduced smell.
+**Causes:** viral infection, allergies, nasal polyps.
+**Prescription:** nasal corticosteroid spray, saline rinses, with steam inhalation.
+**Treatment:** adequate fluids, avoiding allergens.
+
+*Synthetic educational data, not medical advice.*","**Disease:** Sinusitis
+**Symptoms:** facial pressure, blocked nose, thick discharge, reduced smell.
+**Causes:** viral infection, allergies, nasal polyps.
+**Prescription:** nasal corticosteroid spray, saline rinses, with steam inhalation.
+**Treatment:** adequate fluids, avoiding allergens.
+
+*Synthetic educational data, not medical advice.*"
+Tonsillitis,False,True,1.0,1.0,True,True,True,"**Disease:** Tonsillitis
+**Symptoms:** sore throat, painful swallowing, fever, swollen tonsils.
+**Causes:** viral or streptococcal infection.
+**Prescription:** penicillin or amoxicillin if bacterial, as prescribed.
+**Treatment:** rest, warm fluids, throat lozenges, pain relief.
+
+*Synthetic educational data, not medical advice.*","**Disease:** Tonsillitis
+**Symptoms:** sore throat, painful swallowing, fever, swollen tonsils.
+**Causes:** viral or streptococcal infection.
+**Prescription:** penicillin or amoxicillin if bacterial, as prescribed.
+**Treatment:** rest, warm fluids, throat lozenges, pain relief.
+
+*Synthetic educational data, not medical advice.*"
+Common Cold,False,True,1.0,1.0,True,True,True,"**Disease:** Common Cold
+**Symptoms:** runny nose, sneezing, sore throat, mild cough.
+**Causes:** rhinovirus and other respiratory viruses.
+**Prescription:** paracetamol or antihistamine for symptom relief.
+**Treatment:** rest, fluids, hand hygiene.
+
+*Synthetic educational data, not medical advice.*","**Disease:** Common Cold
+**Symptoms:** runny nose, sneezing, sore throat, mild cough.
+**Causes:** rhinovirus and other respiratory viruses.
+**Prescription:** paracetamol or antihistamine for symptom relief.
+**Treatment:** rest, fluids, hand hygiene.
+
+*Synthetic educational data, not medical advice.*"
+Measles,False,True,1.0,1.0,True,True,True,"**Disease:** Measles
+**Symptoms:** high fever, cough, runny nose, red eyes, rash starting on the face.
+**Causes:** measles virus spread by respiratory droplets.
+**Prescription:** no antiviral; vitamin A and paracetamol as advised.
+**Treatment:** isolation, fluids, MMR vaccination.
+
+*Synthetic educational data, not medical advice.*","**Disease:** Measles
+**Symptoms:** high fever, cough, runny nose, red eyes, rash starting on the face.
+**Causes:** measles virus spread by respiratory droplets.
+**Prescription:** no antiviral; vitamin A and paracetamol as advised.
+**Treatment:** isolation, fluids, MMR vaccination.
+
+*Synthetic educational data, not medical advice.*"
+Mumps,False,True,1.0,1.0,True,True,True,"**Disease:** Mumps
+**Symptoms:** swollen painful salivary glands, fever, headache.
+**Causes:** mumps virus spread by saliva.
+**Prescription:** no antiviral; paracetamol for pain, as directed.
+**Treatment:** rest, fluids, MMR vaccination.
+
+*Synthetic educational data, not medical advice.*","**Disease:** Mumps
+**Symptoms:** swollen painful salivary glands, fever, headache.
+**Causes:** mumps virus spread by saliva.
+**Prescription:** no antiviral; paracetamol for pain, as directed.
+**Treatment:** rest, fluids, MMR vaccination.
+
+*Synthetic educational data, not medical advice.*"
+Rubella,False,True,1.0,1.0,True,True,True,"**Disease:** Rubella
+**Symptoms:** mild fever, pink rash, swollen lymph nodes.
+**Causes:** rubella virus spread by droplets.
+**Prescription:** no antiviral; paracetamol for fever and aches.
+**Treatment:** rest, MMR vaccination, avoiding exposure in pregnancy.
+
+*Synthetic educational data, not medical advice.*","**Disease:** Rubella
+**Symptoms:** mild fever, pink rash, swollen lymph nodes.
+**Causes:** rubella virus spread by droplets.
+**Prescription:** no antiviral; paracetamol for fever and aches.
+**Treatment:** rest, MMR vaccination, avoiding exposure in pregnancy.
+
+*Synthetic educational data, not medical advice.*"
+Hepatitis A,False,True,1.0,1.0,True,True,True,"**Disease:** Hepatitis A
+**Symptoms:** nausea, jaundice, fatigue, dark urine.
+**Causes:** hepatitis A virus from contaminated food and water.
+**Prescription:** no specific drug;
+**Treatment:** supportive care, rest, hydration, hepatitis A vaccination.
+**Rotation:** hygiene.
+
+*Synthetic educational data, not medical advice.*","**Disease:** Hepatitis A
+**Symptoms:** nausea, jaundice, fatigue, dark urine.
+**Causes:** hepatitis A virus from contaminated food and water.
+**Prescription:** no specific drug;
+**Treatment:** supportive care, rest, hydration, hepatitis A vaccination.
+**Rotation:** hygiene.
+
+*Synthetic educational data, not medical advice.*"
+Hepatitis C,False,True,1.0,1.0,True,True,True,"**Disease:** Hepatitis C
+**Symptoms:** often none; fatigue, jaundice, liver tenderness.
+**Causes:** hepatitis C virus spread by blood exposure.
+**Prescription:** sofosbuvir-based direct-acting antivirals, as prescribed.
+**Treatment:** liver monitoring, avoiding alcohol, completing treatment.
+
+*Synthetic educational data, not medical advice.*","**Disease:** Hepatitis C
+**Symptoms:** often none; fatigue, jaundice, liver tenderness.
+**Causes:** hepatitis C virus spread by blood exposure.
+**Prescription:** sofosbuvir-based direct-acting antivirals, as prescribed.
+**Treatment:** liver monitoring, avoiding alcohol, completing treatment.
+
+*Synthetic educational data, not medical advice.*"
+HIV Infection,False,True,1.0,1.0,True,True,True,"**Disease:** HIV Infection
+**Symptoms:** flu-like illness early, later weight loss and infections.
+**Causes:** HIV spread by blood and sexual contact.
+**Prescription:** tenofovir-based regimens, as prescribed.
+**Treatment:** antiretroviral therapy such as tenofovir-based regimens, as prescribed with lifelong treatment, regular viral load tests, safer sex.
+
+*Synthetic educational data, not medical advice.*","**Disease:** HIV Infection
+**Symptoms:** flu-like illness early, later weight loss and infections.
+**Causes:** HIV spread by blood and sexual contact.
+**Prescription:** tenofovir-based regimens, as prescribed.
+**Treatment:** antiretroviral therapy such as tenofovir-based regimens, as prescribed with lifelong treatment, regular viral load tests, safer sex.
+
+*Synthetic educational data, not medical advice.*"
+Herpes Zoster (Shingles),False,True,1.0,1.0,True,True,True,"**Disease:** Herpes Zoster (Shingles)
+**Symptoms:** painful blistering rash on one side of the body, burning pain.
+**Causes:** reactivated varicella-zoster virus.
+**Prescription:** valacyclovir (generic) if started early, as prescribed.
+**Treatment:** pain relief, cool compresses, shingles vaccination.
+
+*Synthetic educational data, not medical advice.*","**Disease:** Herpes Zoster (Shingles)
+**Symptoms:** painful blistering rash on one side of the body, burning pain.
+**Causes:** reactivated varicella-zoster virus.
+**Prescription:** valacyclovir (generic) if started early, as prescribed.
+**Treatment:** pain relief, cool compresses, shingles vaccination.
+
+*Synthetic educational data, not medical advice.*"
+Cold Sores,False,True,1.0,1.0,True,True,True,"**Disease:** Cold Sores
+**Symptoms:** tingling then small blisters around the lips, caused by herpes simplex virus type 1.
+**Causes:** herpes simplex virus type 1.
+**Prescription:** aciclovir cream (generic), as directed.
+**Treatment:** avoiding touching sores, sun protection, hand hygiene.
+
+*Synthetic educational data, not medical advice.*","**Disease:** Cold Sores
+**Symptoms:** tingling then small blisters around the lips, caused by herpes simplex virus type 1.
+**Causes:** herpes simplex virus type 1.
+**Prescription:** aciclovir cream (generic), as directed.
+**Treatment:** avoiding touching sores, sun protection, hand hygiene.
+
+*Synthetic educational data, not medical advice.*"
+Athlete's Foot,False,True,1.0,1.0,True,True,True,"**Disease:** Athlete's Foot
+**Symptoms:** itching and scaling between the toes, cracked skin.
+**Causes:** fungal infection in warm moist shoes.
+**Prescription:** clotrimazole cream (generic), as directed.
+**Treatment:** keeping feet dry, changing socks, breathable shoes.
+
+*Synthetic educational data, not medical advice.*","**Disease:** Athlete's Foot
+**Symptoms:** itching and scaling between the toes, cracked skin.
+**Causes:** fungal infection in warm moist shoes.
+**Prescription:** clotrimazole cream (generic), as directed.
+**Treatment:** keeping feet dry, changing socks, breathable shoes.
+
+*Synthetic educational data, not medical advice.*"
+Ringworm,False,True,1.0,1.0,True,True,True,"**Disease:** Ringworm
+**Symptoms:** circular red scaly patch with a clear centre, itching.
+**Causes:** dermatophyte fungi spread by contact with people or animals.
+**Prescription:** terbinafine or clotrimozole cream, as directed.
+**Treatment:** keeping skin dry, not sharing towels, treating pets.
+
+*Synthetic educational data, not medical advice.*","**Disease:** Ringworm
+**Symptoms:** circular red scaly patch with a clear centre, itching.
+**Causes:** dermatophyte fungi spread by contact with people or animals.
+**Prescription:** terbinafine or clotrimozole cream, as directed.
+**Treatment:** keeping skin dry, not sharing towels, treating pets.
+
+*Synthetic educational data, not medical advice.*"
+Acne Vulgaris,False,True,1.0,1.0,True,True,True,"**Disease:** Acne Vulgaris
+**Symptoms:** pimples, blackheads, whiteheads, oily skin.
+**Causes:** clogged pores, hormones, bacteria.
+**Prescription:** benzoyl peroxide or topical retinoid (generic), as directed.
+**Treatment:** gentle cleansing, non-comedogenic products, avoiding picking.
+
+*Synthetic educational data, not medical advice.*","**Disease:** Acne Vulgaris
+**Symptoms:** pimples, blackheads, whiteheads, oily skin.
+**Causes:** clogged pores, hormones, bacteria.
+**Prescription:** benzoyl peroxide or topical retinoid (generic), as directed.
+**Treatment:** gentle cleansing, non-comedogenic products, avoiding picking.
+
+*Synthetic educational data, not medical advice.*"
+Rosacea,False,True,1.0,1.0,True,True,True,"**Disease:** Rosacea
+**Symptoms:** facial redness, flushing, visible blood vessels, small bumps.
+**Causes:** unclear; genetics, triggers such as heat and spicy food.
+**Prescription:** metronidazole or ivermectin cream (generic), as directed.
+**Treatment:** sun protection, avoiding triggers, gentle skincare.
+
+*Synthetic educational data, not medical advice.*","**Disease:** Rosacea
+**Symptoms:** facial redness, flushing, visible blood vessels, small bumps.
+**Causes:** unclear; genetics, triggers such as heat and spicy food.
+**Prescription:** metronidazole or ivermectin cream (generic), as directed.
+**Treatment:** sun protection, avoiding triggers, gentle skincare.
+
+*Synthetic educational data, not medical advice.*"
+Urticaria (Hives),False,True,1.0,1.0,True,True,True,"**Disease:** Urticaria (Hives)
+**Symptoms:** itchy raised welts that come and go.
+**Causes:** allergic reactions, infections, stress, unknown triggers.
+**Prescription:** antihistamine such as cetirizine (generic), as directed.
+**Treatment:** avoiding triggers, cool compresses, urgent help for face or throat swelling.
+
+*Synthetic educational data, not medical advice.*","**Disease:** Urticaria (Hives)
+**Symptoms:** itchy raised welts that come and go.
+**Causes:** allergic reactions, infections, stress, unknown triggers.
+**Prescription:** antihistamine such as cetirizine (generic), as directed.
+**Treatment:** avoiding triggers, cool compresses, urgent help for face or throat swelling.
+
+*Synthetic educational data, not medical advice.*"
+Allergic Rhinitis,False,True,1.0,1.0,True,True,True,"**Disease:** Allergic Rhinitis
+**Symptoms:** sneezing, itchy nose and eyes, runny nose.
+**Causes:** pollen, dust mites, pet dander.
+**Prescription:** antihistamine or nasal steroid spray, as directed.
+**Treatment:** allergen avoidance, saline rinses, air filters.
+
+*Synthetic educational data, not medical advice.*","**Disease:** Allergic Rhinitis
+**Symptoms:** sneezing, itchy nose and eyes, runny nose.
+**Causes:** pollen, dust mites, pet dander.
+**Prescription:** antihistamine or nasal steroid spray, as directed.
+**Treatment:** allergen avoidance, saline rinses, air filters.
+
+*Synthetic educational data, not medical advice.*"
+Peptic Ulcer Disease,False,True,1.0,1.0,True,True,True,"**Disease:** Peptic Ulcer Disease
+**Symptoms:** burning stomach pain, bloating, nausea.
+**Causes:** H. pylori infection, NSAID use.
+**Prescription:** proton pump inhibitor with antibiotics for H. pylori.
+**Treatment:** avoiding NSAIDs, alcohol and smoking, completing treatment.
+
+*Synthetic educational data, not medical advice.*","**Disease:** Peptic Ulcer Disease
+**Symptoms:** burning stomach pain, bloating, nausea.
+**Causes:** H. pylori infection, NSAID use.
+**Prescription:** proton pump inhibitor with antibiotics for H. pylori.
+**Treatment:** avoiding NSAIDs, alcohol and smoking, completing treatment.
+
+*Synthetic educational data, not medical advice.*"
+Appendicitis,False,True,1.0,1.0,True,True,True,"**Disease:** Appendicitis
+**Symptoms:** pain starting near the navel and moving to the lower right, fever, vomiting.
+**Causes:** blockage of the appendix by faeces or infection.
+**Prescription:** surgical removal (appendectomy) with antibiotics, along with urgent surgical assessment, rest, fluids before surgery.
+**Treatment:** urgent surgical assessment, rest, fluids before surgery.
+
+*Synthetic educational data, not medical advice.*","**Disease:** Appendicitis
+**Symptoms:** pain starting near the navel and moving to the lower right, fever, vomiting.
+**Causes:** blockage of the appendix by faeces or infection.
+**Prescription:** surgical removal (appendectomy) with antibiotics, along with urgent surgical assessment, rest, fluids before surgery.
+**Treatment:** urgent surgical assessment, rest, fluids before surgery.
+
+*Synthetic educational data, not medical advice.*"
+Gallstones,False,True,1.0,1.0,True,True,True,"**Disease:** Gallstones
+**Symptoms:** pain in the upper right abdomen after fatty meals, nausea.
+**Causes:** cholesterol or pigment stones in the gallbladder.
+**Prescription:** ursodeoxycholic acid (generic) in selected cases, as prescribed.
+**Treatment:** low-fat diet, weight management, surgery if symptomatic.
+
+*Synthetic educational data, not medical advice.*","**Disease:** Gallstones
+**Symptoms:** pain in the upper right abdomen after fatty meals, nausea.
+**Causes:** cholesterol or pigment stones in the gallbladder.
+**Prescription:** ursodeoxycholic acid (generic) in selected cases, as prescribed.
+**Treatment:** low-fat diet, weight management, surgery if symptomatic.
+
+*Synthetic educational data, not medical advice.*"
+Pancreatitis,False,True,1.0,1.0,True,True,True,"**Disease:** Pancreatitis
+**Symptoms:** severe upper abdominal pain radiating to the back, vomiting.
+**Causes:** gallstones, alcohol, high triglycerides.
+**Prescription:** pain relief and fluids in hospital, as prescribed.
+**Treatment:** fasting initially, treating the cause, avoiding alcohol.
+
+*Synthetic educational data, not medical advice.*","**Disease:** Pancreatitis
+**Symptoms:** severe upper abdominal pain radiating to the back, vomiting.
+**Causes:** gallstones, alcohol, high triglycerides.
+**Prescription:** pain relief and fluids in hospital, as prescribed.
+**Treatment:** fasting initially, treating the cause, avoiding alcohol.
+
+*Synthetic educational data, not medical advice.*"
+Diverticulitis,False,True,1.0,1.0,True,True,True,"**Disease:** Diverticulitis
+**Symptoms:** left lower abdominal pain, fever, constipation or diarrhoea.
+**Causes:** infection or inflammation of diverticula in the colon.
+**Prescription:** amoxicillin-clavulanate or metronidazole, as prescribed.
+**Treatment:** liquid diet during flares, high-fibre diet afterwards.
+
+*Synthetic educational data, not medical advice.*","**Disease:** Diverticulitis
+**Symptoms:** left lower abdominal pain, fever, constipation or diarrhoea.
+**Causes:** infection or inflammation of diverticula in the colon.
+**Prescription:** amoxicillin-clavulanate or metronidazole, as prescribed.
+**Treatment:** liquid diet during flares, high-fibre diet afterwards.
+
+*Synthetic educational data, not medical advice.*"
+Constipation,False,True,1.0,1.0,True,True,True,"**Disease:** Constipation
+**Symptoms:** frequent or hard stools, straining, bloating.
+**Causes:** low fibre, dehydration, inactivity, some medicines.
+**Prescription:** polyethylene glycol (generic) laxative, as directed.
+**Treatment:** more fibre and fluids, regular physical activity, toilet routine.
+
+*Synthetic educational data, not medical advice.*","**Disease:** Constipation
+**Symptoms:** frequent or hard stools, straining, bloating.
+**Causes:** low fibre, dehydration, inactivity, some medicines.
+**Prescription:** polyethylene glycol (generic) laxative, as directed.
+**Treatment:** more fibre and fluids, regular physical activity, toilet routine.
+
+*Synthetic educational data, not medical advice.*"
+Infectious Diarrhoea,False,True,1.0,1.0,True,True,True,"**Disease:** Infectious Diarrhoea
+**Symptoms:** watery stools, cramps, nausea, low-grade fever.
+**Causes:** viruses or bacteria from contaminated food or water.
+**Prescription:** oral rehydration salts;
+**Treatment:** hydration, hand hygiene, safe food and water.
+
+*Synthetic educational data, not medical advice.*","**Disease:** Infectious Diarrhoea
+**Symptoms:** watery stools, cramps, nausea, low-grade fever.
+**Causes:** viruses or bacteria from contaminated food or water.
+**Prescription:** oral rehydration salts;
+**Treatment:** hydration, hand hygiene, safe food and water.
+
+*Synthetic educational data, not medical advice.*"
+Crohn's Disease,False,True,1.0,1.0,True,True,True,"**Disease:** Crohn's Disease
+**Symptoms:** diarrhoea, abdominal pain, weight loss, fatigue.
+**Causes:** immune-mediated inflammation of the gut, genetics.
+**Prescription:** mesalazine or biologics such as infliximab, as prescribed.
+**Treatment:** regular specialist review, nutritional support, smoking cessation.
+
+*Synthetic educational data, not medical advice.*","**Disease:** Crohn's Disease
+**Symptoms:** diarrhoea, abdominal pain, weight loss, fatigue.
+**Causes:** immune-mediated inflammation of the gut, genetics.
+**Prescription:** mesalazine or biologics such as infliximab, as prescribed.
+**Treatment:** regular specialist review, nutritional support, smoking cessation.
+
+*Synthetic educational data, not medical advice.*"
+Ulcerative Colitis,False,True,1.0,1.0,True,True,True,"**Disease:** Ulcerative Colitis
+**Symptoms:** bloody diarrhoea, urgency, abdominal cramps.
+**Causes:** immune-mediated inflammation of the colon lining.
+**Prescription:** mesalazine (generic) or corticosteroids during flares, as prescribed.
+**Treatment:** specialist monitoring, diet support, surveillance colonoscopy.
+
+*Synthetic educational data, not medical advice.*","**Disease:** Ulcerative Colitis
+**Symptoms:** bloody diarrhoea, urgency, abdominal cramps.
+**Causes:** immune-mediated inflammation of the colon lining.
+**Prescription:** mesalazine (generic) or corticosteroids during flares, as prescribed.
+**Treatment:** specialist monitoring, diet support, surveillance colonoscopy.
+
+*Synthetic educational data, not medical advice.*"
+Osteoporosis,False,True,1.0,1.0,True,True,True,"**Disease:** Osteoporosis
+**Symptoms:** often none; fractures from minor falls, back pain, height loss.
+**Causes:** ageing, low oestrogen, low calcium and vitamin D.
+**Prescription:** bisphosphonate such as alendronate (generic), as prescribed.
+**Treatment:** calcium and vitamin D intake, weight-bearing exercise, fall prevention.
+
+*Synthetic educational data, not medical advice.*","**Disease:** Osteoporosis
+**Symptoms:** often none; fractures from minor falls, back pain, height loss.
+**Causes:** ageing, low oestrogen, low calcium and vitamin D.
+**Prescription:** bisphosphonate such as alendronate (generic), as prescribed.
+**Treatment:** calcium and vitamin D intake, weight-bearing exercise, fall prevention.
+
+*Synthetic educational data, not medical advice.*"
+Sciatica,False,True,1.0,1.0,True,True,True,"**Disease:** Sciatica
+**Symptoms:** shooting pain from the back into the leg, numbness, tingling.
+**Causes:** compressed or irritated sciatic nerve, often from a disc problem.
+**Prescription:** NSAID or gabapentin for nerve pain, as prescribed.
+**Treatment:** physiotherapy, staying active, heat or cold packs.
+
+*Synthetic educational data, not medical advice.*","**Disease:** Sciatica
+**Symptoms:** shooting pain from the back into the leg, numbness, tingling.
+**Causes:** compressed or irritated sciatic nerve, often from a disc problem.
+**Prescription:** NSAID or gabapentin for nerve pain, as prescribed.
+**Treatment:** physiotherapy, staying active, heat or cold packs.
+
+*Synthetic educational data, not medical advice.*"
+Low Back Pain,False,True,1.0,1.0,True,True,True,"**Disease:** Low Back Pain
+**Symptoms:** ache or stiffness in the lower back, limited movement.
+**Causes:** muscle strain, poor posture, disc problems.
+**Prescription:** paracetamol or NSAID for short-term pain, as directed.
+**Treatment:** staying active, physiotherapy, ergonomic posture.
+
+*Synthetic educational data, not medical advice.*","**Disease:** Low Back Pain
+**Symptoms:** ache or stiffness in the lower back, limited movement.
+**Causes:** muscle strain, poor posture, disc problems.
+**Prescription:** paracetamol or NSAID for short-term pain, as directed.
+**Treatment:** staying active, physiotherapy, ergonomic posture.
+
+*Synthetic educational data, not medical advice.*"
+Fibromyalgia,False,True,1.0,1.0,True,True,True,"**Disease:** Fibromyalgia
+**Symptoms:** widespread pain, fatigue, poor sleep, memory difficulty.
+**Causes:** unclear; central pain processing, genetics, stress.
+**Prescription:** duloxetine or pregabalin (generic), as prescribed.
+**Treatment:** exercise, sleep hygiene, cognitive behavioural therapy.
+
+*Synthetic educational data, not medical advice.*","**Disease:** Fibromyalgia
+**Symptoms:** widespread pain, fatigue, poor sleep, memory difficulty.
+**Causes:** unclear; central pain processing, genetics, stress.
+**Prescription:** duloxetine or pregabalin (generic), as prescribed.
+**Treatment:** exercise, sleep hygiene, cognitive behavioural therapy.
+
+*Synthetic educational data, not medical advice.*"
+Systemic Lupus Erythematosus,False,True,1.0,1.0,True,True,True,"**Disease:** Systemic Lupus Erythematosus
+**Symptoms:** joint pain, facial rash, fatigue, fever, mouth ulcers.
+**Causes:** autoimmune reaction, genetics, sunlight, infections.
+**Prescription:** hydroxychloroquine (generic) as background therapy.
+**Treatment:** sun protection, regular kidney and blood tests, specialist care.
+
+*Synthetic educational data, not medical advice.*","**Disease:** Systemic Lupus Erythematosus
+**Symptoms:** joint pain, facial rash, fatigue, fever, mouth ulcers.
+**Causes:** autoimmune reaction, genetics, sunlight, infections.
+**Prescription:** hydroxychloroquine (generic) as background therapy.
+**Treatment:** sun protection, regular kidney and blood tests, specialist care.
+
+*Synthetic educational data, not medical advice.*"
+Multiple Sclerosis,False,True,1.0,1.0,True,True,True,"**Disease:** Multiple Sclerosis
+**Symptoms:** numbness, vision problems, weakness, balance issues.
+**Causes:** autoimmune damage to the myelin covering nerves.
+**Prescription:** disease-modifying therapy such as interferon or ocrelizumab, as prescribed.
+**Treatment:** physiotherapy, relapse management, vitamin D monitoring.
+
+*Synthetic educational data, not medical advice.*","**Disease:** Multiple Sclerosis
+**Symptoms:** numbness, vision problems, weakness, balance issues.
+**Causes:** autoimmune damage to the myelin covering nerves.
+**Prescription:** disease-modifying therapy such as interferon or ocrelizumab, as prescribed.
+**Treatment:** physiotherapy, relapse management, vitamin D monitoring.
+
+*Synthetic educational data, not medical advice.*"
+Parkinson's Disease,False,True,1.0,1.0,True,True,True,"**Disease:** Parkinson's Disease
+**Symptoms:** tremor at rest, slowness of movement, stiffness.
+**Causes:** loss of dopamine-producing neurons, age, genetics.
+**Prescription:** levodopa with carbidopa (generic), as prescribed.
+**Treatment:** physiotherapy, speech therapy, balanced diet.
+
+*Synthetic educational data, not medical advice.*","**Disease:** Parkinson's Disease
+**Symptoms:** tremor at rest, slowness of movement, stiffness.
+**Causes:** loss of dopamine-producing neurons, age, genetics.
+**Prescription:** levodopa with carbidopa (generic), as prescribed.
+**Treatment:** physiotherapy, speech therapy, balanced diet.
+
+*Synthetic educational data, not medical advice.*"
+Alzheimer's Disease,False,True,1.0,1.0,True,True,True,"**Disease:** Alzheimer's Disease
+**Symptoms:** memory loss, confusion, difficulty with daily tasks.
+**Causes:** protein build-up in the brain, age, genetics.
+**Prescription:** dozepil (generic) for symptom support.
+**Treatment:** cognitive activity, social engagement, caregiver support.
+
+*Synthetic educational data, not medical advice.*","**Disease:** Alzheimer's Disease
+**Symptoms:** memory loss, confusion, difficulty with daily tasks.
+**Causes:** protein build-up in the brain, age, genetics.
+**Prescription:** dozepil (generic) for symptom support.
+**Treatment:** cognitive activity, social engagement, caregiver support.
+
+*Synthetic educational data, not medical advice.*"
+Bipolar Disorder,False,True,1.0,1.0,True,True,True,"**Disease:** Bipolar Disorder
+**Symptoms:** episodes of elevated mood and depression, changes in energy.
+**Causes:** genetics, brain chemistry, stress.
+**Prescription:** mood stabiliser such as lithium or valproate (generic), as prescribed.
+**Treatment:** regular sleep, medication adherence, psychological therapy.
+
+*Synthetic educational data, not medical advice.*","**Disease:** Bipolar Disorder
+**Symptoms:** episodes of elevated mood and depression, changes in energy.
+**Causes:** genetics, brain chemistry, stress.
+**Prescription:** mood stabiliser such as lithium or valproate (generic), as prescribed.
+**Treatment:** regular sleep, medication adherence, psychological therapy.
+
+*Synthetic educational data, not medical advice.*"
+Schizophrenia,False,True,1.0,1.0,True,True,True,"**Disease:** Schizophrenia
+**Symptoms:** hallucinations, delusions, disorganised thinking, withdrawal.
+**Causes:** genetic and environmental factors, brain chemistry.
+**Prescription:** risperidone (generic), as prescribed.
+**Treatment:** antipsychotic such as risperidone (generic) as prescribed,
+**psychosocial support, rehabilitation, regular follow-up.
+
+*Synthetic educational data, not medical advice.*","**Disease:** Schizophrenia
+**Symptoms:** hallucinations, delusions, disorganised thinking, withdrawal.
+**Causes:** genetic and environmental factors, brain chemistry.
+**Prescription:** risperidone (generic), as prescribed.
+**Treatment:** antipsychotic such as risperidone (generic) as prescribed,
+**psychosocial support, rehabilitation, regular follow-up.
+
+*Synthetic educational data, not medical advice.*"
+Insomnia,False,True,1.0,1.0,True,True,True,"**Disease:** Insomnia
+**Symptoms:** difficulty falling or staying asleep, daytime tiredness.
+**Causes:** stress, poor sleep habits, anxiety, medical conditions.
+**Prescription:** short-term sleep medicine if needed, as prescribed.
+**Treatment:** cognitive behavioural therapy for insomnia, regular sleep schedule.
+
+*Synthetic educational data, not medical advice.*","**Disease:** Insomnia
+**Symptoms:** difficulty falling or staying asleep, daytime tiredness.
+**Causes:** stress, poor sleep habits, anxiety, medical conditions.
+**Prescription:** short-term sleep medicine if needed, as prescribed.
+**Treatment:** cognitive behavioural therapy for insomnia, regular sleep schedule.
+
+*Synthetic educational data, not medical advice.*"
+Obstructive Sleep Apnoea,False,True,0.8,0.8,True,False,False,"**Disease:** Obstructive Sleep Apnoea
+**Symptoms:** loud snoring, breathing pauses, daytime sleepiness.
+**Causes:** airway collapse during sleep, obesity, large tonsils.
+**Prescription:** no drug treatment; CPAP device when indicated, along with weight loss, sleeping on the side, avoiding alcohol before bed.
+
+*Synthetic educational data, not medical advice.*","**Disease:** Obstructive Sleep Apnoea
+**Symptoms:** loud snoring, breathing pauses, daytime sleepiness.
+**Causes:** airway collapse during sleep, obesity, large tonsils.
+**Prescription:** no drug treatment; CPAP device when indicated, along with weight loss, sleeping on the side, avoiding alcohol before bed.
+
+*Synthetic educational data, not medical advice.*"
+Heart Failure,False,True,1.0,1.0,True,True,True,"**Disease:** Heart Failure
+**Symptoms:** breathlessness, leg swelling, fatigue, reduced exercise tolerance.
+**Causes:** coronary disease, hypertension, valve problems.
+**Prescription:** ACE inhibitor and beta-blocker (generic), as prescribed.
+**Treatment:** salt and fluid restriction, daily weight checks, exercise rehabilitation.
+
+*Synthetic educational data, not medical advice.*","**Disease:** Heart Failure
+**Symptoms:** breathlessness, leg swelling, fatigue, reduced exercise tolerance.
+**Causes:** coronary disease, hypertension, valve problems.
+**Prescription:** ACE inhibitor and beta-blocker (generic), as prescribed.
+**Treatment:** salt and fluid restriction, daily weight checks, exercise rehabilitation.
+
+*Synthetic educational data, not medical advice.*"
+Atrial Fibrillation,False,True,1.0,1.0,True,True,True,"**Disease:** Atrial Fibrillation
+**Symptoms:** irregular heartbeat, palpitations, breathlessness.
+**Causes:** ageing, hypertension, heart disease, thyroid problems.
+**Prescription:** anticoagulant such as apixaban (generic), rate control drugs, as prescribed.
+**Treatment:** stroke prevention, limiting alcohol and caffeine, regular review.
+
+*Synthetic educational data, not medical advice.*","**Disease:** Atrial Fibrillation
+**Symptoms:** irregular heartbeat, palpitations, breathlessness.
+**Causes:** ageing, hypertension, heart disease, thyroid problems.
+**Prescription:** anticoagulant such as apixaban (generic), rate control drugs, as prescribed.
+**Treatment:** stroke prevention, limiting alcohol and caffeine, regular review.
+
+*Synthetic educational data, not medical advice.*"
+Deep Vein Thrombosis,False,True,1.0,1.0,True,True,True,"**Disease:** Deep Vein Thrombosis
+**Symptoms:** leg swelling, pain, warm and redness in one leg.
+**Causes:** immobility, surgery, clotting disorders.
+**Prescription:** anticoagulant like rivaroxaban (generic), as prescribed.
+**Treatment:** early mobilization, compression stockings, follow-up.
+
+*Synthetic educational data, not medical advice.*","**Disease:** Deep Vein Thrombosis
+**Symptoms:** leg swelling, pain, warm and redness in one leg.
+**Causes:** immobility, surgery, clotting disorders.
+**Prescription:** anticoagulant like rivaroxaban (generic), as prescribed.
+**Treatment:** early mobilization, compression stockings, follow-up.
+
+*Synthetic educational data, not medical advice.*"
+Vitamin B12 Deficiency,False,True,1.0,1.0,True,True,True,"**Disease:** Vitamin B12 Deficiency
+**Symptoms:** tiredness, numbness, tingling, memory problems, pale skin.
+**Causes:** poor absorption, pernicious anaemia, vegan diet.
+**Prescription:** vitamin B12 injections or oral tablets, as prescribed.
+**Treatment:** vitamin B12 injections or oral tablets, as prescribed, along with dietary sources such as eggs and dairy, periodic blood tests.
+
+*Synthetic educational data, not medical advice.*","**Disease:** Vitamin B12 Deficiency
+**Symptoms:** tiredness, numbness, tingling, memory problems, pale skin.
+**Causes:** poor absorption, pernicious anaemia, vegan diet.
+**Prescription:** vitamin B12 injections or oral tablets, as prescribed.
+**Treatment:** vitamin B12 injections or oral tablets, as prescribed, along with dietary sources such as eggs and dairy, periodic blood tests.
+
+*Synthetic educational data, not medical advice.*"
+Hyperthyroidism,False,True,1.0,1.0,True,True,True,"**Disease:** Hyperthyroidism
+**Symptoms:** weight loss, rapid heartbeat, tremor, heat intolerance.
+**Causes:** Graves disease, toxic nodules, thyroiditis.
+**Prescription:** methimazole (generic), as prescribed.
+**Treatment:** beta-blocker for symptom control, regular thyroid tests.
+
+*Synthetic educational data, not medical advice.*","**Disease:** Hyperthyroidism
+**Symptoms:** weight loss, rapid heartbeat, tremor, heat intolerance.
+**Causes:** Graves disease, toxic nodules, thyroiditis.
+**Prescription:** methimazole (generic), as prescribed.
+**Treatment:** beta-blocker for symptom control, regular thyroid tests.
+
+*Synthetic educational data, not medical advice.*"
+Polycystic Ovary Syndrome,False,True,1.0,1.0,True,True,True,"**Disease:** Polycystic Ovary Syndrome
+**Symptoms:** irregular periods, acne, excess hair growth, weight gain.
+**Causes:** hormonal imbalance, insulin resistance, genetics.
+**Prescription:** combined oral contraceptive or metformin (generic), as prescribed.
+**Treatment:** weight management, regular exercise, fertility advice when needed.
+
+*Synthetic educational data, not medical advice.*","**Disease:** Polycystic Ovary Syndrome
+**Symptoms:** irregular periods, acne, excess hair growth, weight gain.
+**Causes:** hormonal imbalance, insulin resistance, genetics.
+**Prescription:** combined oral contraceptive or metformin (generic), as prescribed.
+**Treatment:** weight management, regular exercise, fertility advice when needed.
+
+*Synthetic educational data, not medical advice.*"
+Endometriosis,False,True,1.0,1.0,True,True,True,"**Disease:** Endometriosis
+**Symptoms:** painful periods, pelvic pain, pain during intercourse.
+**Causes:** tissue like the uterine lining growing outside the uterus.
+**Prescription:** NSAIDs or hormonal contraception, as prescribed.
+**Treatment:** pain management, physiotherapy, specialist surgical review if needed.
+
+*Synthetic educational data, not medical advice.*","**Disease:** Endometriosis
+**Symptoms:** painful periods, pelvic pain, pain during intercourse.
+**Causes:** tissue like the uterine lining growing outside the uterus.
+**Prescription:** NSAIDs or hormonal contraception, as prescribed.
+**Treatment:** pain management, physiotherapy, specialist surgical review if needed.
+
+*Synthetic educational data, not medical advice.*"
+Urinary Incontinence,False,True,1.0,1.0,True,True,True,"**Disease:** Urinary Incontinence
+**Symptoms:** leaking urine on coughing, sneezing or urgency.
+**Causes:** weak pelvic floor muscles, childbirth, ageing, obesity.
+**Prescription:** anticholinergic or mirabegron (generic) for urgency, as prescribed.
+**Treatment:** pelvic floor exercises, bladder training, weight loss.
+
+*Synthetic educational data, not medical advice.*","**Disease:** Urinary Incontinence
+**Symptoms:** leaking urine on coughing, sneezing or urgency.
+**Causes:** weak pelvic floor muscles, childbirth, ageing, obesity.
+**Prescription:** anticholinergic or mirabegron (generic) for urgency, as prescribed.
+**Treatment:** pelvic floor exercises, bladder training, weight loss.
+
+*Synthetic educational data, not medical advice.*"
+Benign Prostatic Hyperplasia,False,True,1.0,1.0,True,True,True,"**Disease:** Benign Prostatic Hyperplasia
+**Symptoms:** weak urine stream, frequent night urination, incomplete emptying.
+**Causes:** enlargement of the prostate gland with age.
+**Prescription:** alpha blocker such as tamsulosin (generic), as prescribed.
+**Treatment:** regular review, limiting caffeine and night-time fluids.
+
+*Synthetic educational data, not medical advice.*","**Disease:** Benign Prostatic Hyperplasia
+**Symptoms:** weak urine stream, frequent night urination, incomplete emptying.
+**Causes:** enlargement of the prostate gland with age.
+**Prescription:** alpha blocker such as tamsulosin (generic), as prescribed.
+**Treatment:** regular review, limiting caffeine and night-time fluids.
+
+*Synthetic educational data, not medical advice.*"
+Erectile Dysfunction,False,True,1.0,1.0,True,True,True,"**Disease:** Erectile Dysfunction
+**Symptoms:** difficulty achieving or maintaining an erection, caused by vascular disease, diabetes, stress, medications.
+**Causes:** cardiovascular risk, prescription medication management.
+**Prescription:** phosphodiesterase inhibitor such as sildenafil (generic), as prescribed.
+**Treatment:** managing cardiovascular risk, exercising, counselling.
+
+*Synthetic educational data, not medical advice.*","**Disease:** Erectile Dysfunction
+**Symptoms:** difficulty achieving or maintaining an erection, caused by vascular disease, diabetes, stress, medications.
+**Causes:** cardiovascular risk, prescription medication management.
+**Prescription:** phosphodiesterase inhibitor such as sildenafil (generic), as prescribed.
+**Treatment:** managing cardiovascular risk, exercising, counselling.
+
+*Synthetic educational data, not medical advice.*"
+Gestational Diabetes,False,True,0.8,0.8,True,False,False,"**Disease:** Gestational Diabetes
+**Symptoms:** often none; excessive thirst, frequent urination in later pregnancy.
+**Causes:** hormonal changes in pregnancy causing insulin resistance.
+**Prescription:** insulin or metformin (generic) if diet fails, as prescribed, along with healthy diet, regular activity, blood glucose monitoring.
+
+*Synthetic educational data, not medical advice.*","**Disease:** Gestational Diabetes
+**Symptoms:** often none; excessive thirst, frequent urination in later pregnancy.
+**Causes:** hormonal changes in pregnancy causing insulin resistance.
+**Prescription:** insulin or metformin (generic) if diet fails, as prescribed, along with healthy diet, regular activity, blood glucose monitoring.
+
+*Synthetic educational data, not medical advice.*"
+Preeclampsia,False,True,1.0,1.0,True,True,True,"**Disease:** Preeclampsia
+**Symptoms:** high blood pressure in pregnancy, headache, swelling, visual changes.
+**Causes:** placental problems, first pregnancy, pre-existing hypertension.
+**Prescription:** labetalol or nifedipine (generic) for blood pressure, as prescribed.
+**Treatment:** urgent obstetric review, delivery planning, close monitoring.
+
+*Synthetic educational data, not medical advice.*","**Disease:** Preeclampsia
+**Symptoms:** high blood pressure in pregnancy, headache, swelling, visual changes.
+**Causes:** placental problems, first pregnancy, pre-existing hypertension.
+**Prescription:** labetalol or nifedipine (generic) for blood pressure, as prescribed.
+**Treatment:** urgent obstetric review, delivery planning, close monitoring.
+
+*Synthetic educational data, not medical advice.*"
+Vitamin D Deficiency,False,True,1.0,1.0,True,True,True,"**Disease:** Vitamin D Deficiency
+**Symptoms:** bone pain, muscle weakness, fatigue.
+**Causes:** low sun exposure, poor diet, darker skin, obesity.
+**Prescription:** cholecalciferol (generic), as prescribed.
+**Treatment:** vitamin D supplements such as cholecalciferol (generic) as prescribed, along with safe sun exposure, vitamin D-rich foods, follow-up blood tests.
+
+*Synthetic educational data, not medical advice.*","**Disease:** Vitamin D Deficiency
+**Symptoms:** bone pain, muscle weakness, fatigue.
+**Causes:** low sun exposure, poor diet, darker skin, obesity.
+**Prescription:** cholecalciferol (generic), as prescribed.
+**Treatment:** vitamin D supplements such as cholecalciferol (generic) as prescribed, along with safe sun exposure, vitamin D-rich foods, follow-up blood tests.
+
+*Synthetic educational data, not medical advice.*"
+Obesity,False,True,1.0,1.0,True,True,True,"**Disease:** Obesity
+**Symptoms:** excess body fat, breathlessness on exertion, joint pain.
+**Causes:** high energy intake, inactivity, genetics, sleep problems.
+**Prescription:** semaglutide (weight-management medicine) as prescribed.
+**Treatment:** calorie-controlled diet, physical activity, behavioural support.
+
+*Synthetic educational data, not medical advice.*","**Disease:** Obesity
+**Symptoms:** excess body fat, breathlessness on exertion, joint pain.
+**Causes:** high energy intake, inactivity, genetics, sleep problems.
+**Prescription:** semaglutide (weight-management medicine) as prescribed.
+**Treatment:** calorie-controlled diet, physical activity, behavioural support.
+
+*Synthetic educational data, not medical advice.*"
+Metabolic Syndrome,False,True,1.0,1.0,True,True,True,"**Disease:** Metabolic Syndrome
+**Symptoms:** large waist, raised blood pressure, high blood sugar.
+**Causes:** insulin resistance, obesity, inactivity.
+**Prescription:** statin or antihypertensive as needed, as prescribed.
+**Treatment:** weight loss, exercise, healthy diet, regular screening.
+
+*Synthetic educational data, not medical advice.*","**Disease:** Metabolic Syndrome
+**Symptoms:** large waist, raised blood pressure, high blood sugar.
+**Causes:** insulin resistance, obesity, inactivity.
+**Prescription:** statin or antihypertensive as needed, as prescribed.
+**Treatment:** weight loss, exercise, healthy diet, regular screening.
+
+*Synthetic educational data, not medical advice.*"
+Hyperlipidaemia,False,True,1.0,1.0,True,True,True,"**Disease:** Hyperlipidaemia
+**Symptoms:** often none; yellow fatty deposits in some cases.
+**Causes:** high LDL cholesterol, genetics, poor diet.
+**Prescription:** atorvastatin (generic), as prescribed.
+**Treatment:** low saturated fat diet, exercise, weight control.
+
+*Synthetic educational data, not medical advice.*","**Disease:** Hyperlipidaemia
+**Symptoms:** often none; yellow fatty deposits in some cases.
+**Causes:** high LDL cholesterol, genetics, poor diet.
+**Prescription:** atorvastatin (generic), as prescribed.
+**Treatment:** low saturated fat diet, exercise, weight control.
+
+*Synthetic educational data, not medical advice.*"
+Chronic Obstructive Pulmonary Disease,False,True,1.0,1.0,True,True,True,"**Disease:** Chronic Obstructive Pulmonary Disease
+**Symptoms:** chronic cough, sputum, breathlessness on exertion.
+**Causes:** long-term smoking, air pollution, occupational dust.
+**Prescription:** tiotropium (generic) bronchodilator inhaler, as prescribed.
+**Treatment:** stopping smoking, pulmonary rehabilitation, vaccinations.
+
+*Synthetic educational data, not medical advice.*","**Disease:** Chronic Obstructive Pulmonary Disease
+**Symptoms:** chronic cough, sputum, breathlessness on exertion.
+**Causes:** long-term smoking, air pollution, occupational dust.
+**Prescription:** tiotropium (generic) bronchodilator inhaler, as prescribed.
+**Treatment:** stopping smoking, pulmonary rehabilitation, vaccinations.
+
+*Synthetic educational data, not medical advice.*"
+Pulmonary Embolism,False,True,1.0,1.0,True,True,True,"**Disease:** Pulmonary Embolism
+**Symptoms:** sudden breathlessness, chest pain, rapid heartbeat, coughing blood.
+**Causes:** blood clot travelling from the legs to the lungs.
+**Prescription:** anticoagulant such as heparin or apixaban (generic), as prescribed.
+**Treatment:** emergency care, mobilisation, long-term anticoagulation review.
+
+*Synthetic educational data, not medical advice.*","**Disease:** Pulmonary Embolism
+**Symptoms:** sudden breathlessness, chest pain, rapid heartbeat, coughing blood.
+**Causes:** blood clot travelling from the legs to the lungs.
+**Prescription:** anticoagulant such as heparin or apixaban (generic), as prescribed.
+**Treatment:** emergency care, mobilisation, long-term anticoagulation review.
+
+*Synthetic educational data, not medical advice.*"
+Pharyngitis,False,True,1.0,1.0,True,True,True,"**Disease:** Pharyngitis
+**Symptoms:** sore throat, painful swallowing, mild fever.
+**Causes:** viral infection or group A streptococcus.
+**Prescription:** penicillin or amoxicillin if strep confirmed, as prescribed.
+**Treatment:** fluids, salt-water gargles, pain relief.
+
+*Synthetic educational data, not medical advice.*","**Disease:** Pharyngitis
+**Symptoms:** sore throat, painful swallowing, mild fever.
+**Causes:** viral infection or group A streptococcus.
+**Prescription:** penicillin or amoxicillin if strep confirmed, as prescribed.
+**Treatment:** fluids, salt-water gargles, pain relief.
+
+*Synthetic educational data, not medical advice.*"
+Lyme Disease,False,True,1.0,1.0,True,True,True,"**Disease:** Lyme Disease
+**Symptoms:** expanding bull's-eye rash, fever, fatigue, joint pain.
+**Causes:** bacteria Borrelia burgdorferi spread by tick bites.
+**Prescription:** doxycycline (generic) for early infection, as prescribed.
+**Treatment:** doxycycline (generic) for early infection, as prescribed, along with tick checks, prompt review after a tick bite with rash.
+
+*Synthetic educational data, not medical advice.*","**Disease:** Lyme Disease
+**Symptoms:** expanding bull's-eye rash, fever, fatigue, joint pain.
+**Causes:** bacteria Borrelia burgdorferi spread by tick bites.
+**Prescription:** doxycycline (generic) for early infection, as prescribed.
+**Treatment:** doxycycline (generic) for early infection, as prescribed, along with tick checks, prompt review after a tick bite with rash.
+
+*Synthetic educational data, not medical advice.*"
+Leprosy,False,True,1.0,1.0,True,True,True,"**Disease:** Leprosy
+**Symptoms:** pale or red skin patches with reduced sensation.
+**Causes:** Mycobacterium leprae spread by prolonged close contact.
+**Prescription:** rifampicin, dapsone and clofazimine, as prescribed.
+**Treatment:** completing treatment, checking nerves, preventing disability.
+
+*Synthetic educational data, not medical advice.*","**Disease:** Leprosy
+**Symptoms:** pale or red skin patches with reduced sensation.
+**Causes:** Mycobacterium leprae spread by prolonged close contact.
+**Prescription:** rifampicin, dapsone and clofazimine, as prescribed.
+**Treatment:** completing treatment, checking nerves, preventing disability.
+
+*Synthetic educational data, not medical advice.*"
+Cholera,False,True,1.0,1.0,True,True,True,"**Disease:** Cholera
+**Symptoms:** profuse watery diarrhoea, vomiting, rapid dehydration.
+**Causes:** Vibrio cholerae from contaminated water.
+**Prescription:** oral rehydration solution;
+**Treatment:** antibiotics such as azithromycin in severe cases,
+**safe water, sanitation.
+
+*Synthetic educational data, not medical advice.*","**Disease:** Cholera
+**Symptoms:** profuse watery diarrhoea, vomiting, rapid dehydration.
+**Causes:** Vibrio cholerae from contaminated water.
+**Prescription:** oral rehydration solution;
+**Treatment:** antibiotics such as azithromycin in severe cases,
+**safe water, sanitation.
+
+*Synthetic educational data, not medical advice.*"
+Chikungunya,False,True,1.0,1.0,True,True,True,"**Disease:** Chikungunya
+**Symptoms:** sudden fever, severe joint pain, rash.
+**Causes:** chikungunya virus transmitted by Aedes mosquitoes.
+**Prescription:** paracetamol for fever and pain; avoid aspirin.
+**Treatment:** rest, joints mobilisation, mosquito control.
+
+*Synthetic educational data, not medical advice.*","**Disease:** Chikungunya
+**Symptoms:** sudden fever, severe joint pain, rash.
+**Causes:** chikungunya virus transmitted by Aedes mosquitoes.
+**Prescription:** paracetamol for fever and pain; avoid aspirin.
+**Treatment:** rest, joints mobilisation, mosquito control.
+
+*Synthetic educational data, not medical advice.*"
+Yellow Fever,False,True,1.0,1.0,True,True,True,"**Disease:** Yellow Fever
+**Symptoms:** fever, headache, jaundice, bleeding in severe cases.
+**Causes:** yellow fever virus transmitted by mosquitoes.
+**Prescription:** no antiviral;
+**Treatment:** supportive care in hospital, along with yellow fever vaccination, mosquito protection, hydration.
+
+*Synthetic educational data, not medical advice.*","**Disease:** Yellow Fever
+**Symptoms:** fever, headache, jaundice, bleeding in severe cases.
+**Causes:** yellow fever virus transmitted by mosquitoes.
+**Prescription:** no antiviral;
+**Treatment:** supportive care in hospital, along with yellow fever vaccination, mosquito protection, hydration.
+
+*Synthetic educational data, not medical advice.*"
+Rabies,False,True,1.0,1.0,True,True,True,"**Disease:** Rabies
+**Symptoms:** fever, anxiety, hydrophobia, paralysis after an animal bite.
+**Causes:** rabies virus transmitted through animal bites or scratches.
+**Prescription:** post-exposure vaccine and immunoglobulin, as prescribed.
+**Treatment:** immediate wound washing, urgent medical care after any animal bite.
+
+*Synthetic educational data, not medical advice.*","**Disease:** Rabies
+**Symptoms:** fever, anxiety, hydrophobia, paralysis after an animal bite.
+**Causes:** rabies virus transmitted through animal bites or scratches.
+**Prescription:** post-exposure vaccine and immunoglobulin, as prescribed.
+**Treatment:** immediate wound washing, urgent medical care after any animal bite.
+
+*Synthetic educational data, not medical advice.*"
+Tetanus,False,True,1.0,1.0,True,True,True,"**Disease:** Tetanus
+**Symptoms:** jaw stiffness, muscle spasms, difficulty swallowing.
+**Causes:** clostridium tetani bacteria entering through wounds.
+**Prescription:** metronidazole and tetanus immunoglobulin, as prescribed.
+**Treatment:** wound cleaning, tetanus booster vaccination, hospital care.
+
+*Synthetic educational data, not medical advice.*","**Disease:** Tetanus
+**Symptoms:** jaw stiffness, muscle spasms, difficulty swallowing.
+**Causes:** clostridium tetani bacteria entering through wounds.
+**Prescription:** metronidazole and tetanus immunoglobulin, as prescribed.
+**Treatment:** wound cleaning, tetanus booster vaccination, hospital care.
+
+*Synthetic educational data, not medical advice.*"
+Meningitis,False,True,1.0,1.0,True,True,True,"**Disease:** Meningitis
+**Symptoms:** severe headache, fever, neck stiffness, light sensitivity.
+**Causes:** bacterial or viral infection of the membranes around the brain.
+**Prescription:** ceftriaxone (generic) given urgently, as prescribed.
+**Treatment:** emergency hospital care, vaccination against meningococcus and pneumococcus.
+
+*Synthetic educational data, not medical advice.*","**Disease:** Meningitis
+**Symptoms:** severe headache, fever, neck stiffness, light sensitivity.
+**Causes:** bacterial or viral infection of the membranes around the brain.
+**Prescription:** ceftriaxone (generic) given urgently, as prescribed.
+**Treatment:** emergency hospital care, vaccination against meningococcus and pneumococcus.
+
+*Synthetic educational data, not medical advice.*"

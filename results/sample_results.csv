@@ -1,0 +1,253 @@
+config,disease,seen,answer,structure,name_ok,recall
+Base,Type 2 Diabetes,True,"Type 2 diabetes is a chronic metabolic disorder characterized by high blood sugar levels due to insulin resistance or deficiency in the body. It affects approximately 1 in 3 adults worldwide and can lead to serious health complications if left untreated.
+
+The primary symptoms of type 2 diabetes include frequent urination (polyuria), thirst (polydipsia), fatigue, weight loss, and increased hunger. These symptoms often occur without any noticeable physical signs, making it challenging for individuals with type 2 diabetes to recognize their condition.
+
+Diagnosis typically involves a combination of medical history, physical examination, and sometimes blood tests. The diagnosis is made based on the presence of one or more of these symptoms over time.
+
+Treatment options for type 2 diabetes include lifestyle changes such as diet and exercise, medication, and in some cases, surgery. Lifestyle modifications include reducing calorie intake, increasing physical activity, and managing stress. Medications like metformin are commonly prescribed to help regulate blood sugar levels.
+
+Prevention strategies also play",0.0,True,0.3
+Base,Hypertension,True,"Hypertension is a condition characterized by high blood pressure, which can be caused by various factors such as genetics, lifestyle choices, and environmental influences. High blood pressure refers to the presence of abnormal levels of pressure in the arteries, typically measured at 140/90 mmHg or higher.
+
+The term ""hypertension"" itself does not have a specific medical definition; it simply means that the blood pressure is elevated above normal levels. However, when people refer to hypertension, they often mean systolic blood pressure (the highest reading) that exceeds 140 mmHg, while diastolic blood pressure (the lowest reading) may remain within the normal range.
+
+There are two main types of hypertension: primary hypertension and secondary hypertension. Primary hypertension occurs due to an underlying cause, while secondary hypertension results from other conditions affecting the cardiovascular system.
+
+Causes of hypertension include:
+- Genetic predisposition
+- Lifestyle habits like smoking, excessive alcohol consumption, lack of exercise,",0.0,True,0.0
+Base,Asthma,True,"Asthma is a chronic inflammatory disease of the airways that causes breathing difficulties and wheezing. It can be triggered by various factors such as allergens, irritants, infections, or emotional stress.
+
+The symptoms of asthma include:
+
+1. Wheezing: A whistling sound when you breathe in.
+2. Shortness of breath: Feeling like you're not getting enough oxygen.
+3. Chest tightness or pain: This can make it difficult to breathe fully.
+4. Coughing: Often accompanied by sputum production.
+5. Fatigue: Feeling tired even after regular activity.
+6. Fever: In some cases, fever may occur due to inflammation in the lungs.
+
+Treatment for asthma typically involves medications prescribed by a healthcare provider, which can help control symptoms and prevent attacks. These medications may include bronchodilators (to relax the muscles around the airways), corticosteroids (to reduce inflammation), and sometimes inhalers containing长效β2-agonists",0.0,True,0.36363636363636365
+Base,Migraine,True,"Migraines are complex neurological disorders characterized by severe headaches that can range from mild to severe and often accompanied by other symptoms such as nausea, vomiting, sensitivity to light and sound, and photophobia. The exact cause of migraines is not fully understood, but they are believed to be caused by a combination of genetic and environmental factors.
+
+The typical pattern of a migraine headache involves a series of attacks over several hours or days, each lasting between 30 minutes to an hour. During these attacks, the patient may experience throbbing pain in one or more areas of their head, typically on one side of the forehead, temples, or back of the neck. Other common symptoms include nausea, vomiting, sensitivity to light and sound, and photophobia (sensitivity to light).
+
+Migraines can vary in severity and frequency depending on individual differences. Some people may have only occasional attacks, while others may experience multiple attacks per day or even weeks at a time. The duration of a migraine attack can also",0.0,True,0.09090909090909091
+Base,Urinary Tract Infection,True,"Urinary tract infection (UTI) is an illness that occurs when bacteria enter the urinary system and cause inflammation in the bladder or urethra. This can lead to symptoms such as pain during urination, burning sensation while urinating, cloudy urine, and frequent urination.
+
+The most common causes of UTIs include:
+
+1. Bacteria: Most UTIs are caused by bacteria, particularly E. coli and Staphylococcus aureus.
+2. Fungi: Certain types of fungi, like Candida albicans, can also cause UTIs.
+3. Viruses: Some viruses, such as norovirus, can also cause UTIs.
+4. Parasites: While not as common, some parasites, such as giardia lamblia, can cause UTIs.
+
+Symptoms of UTIs may vary depending on which part of the urinary tract is affected. Common symptoms include:
+
+- Painful urination
+- Burning sensation during urination
+- Frequent urination",0.0,True,0.16666666666666666
+Base,Urticaria (Hives),False,"Urticaria is a condition characterized by the appearance of hives or welts on the skin. These welts can vary in size and shape, ranging from small red bumps to large patches of raised skin. The exact cause of urticaria is not fully understood, but it is believed to be related to an overactive immune system.
+
+The symptoms of urticaria can include:
+
+1. Hives: These are the most common type of urticaria. They appear as red, itchy welts that may spread across the body.
+2. Itching: Many people with urticaria experience itching, which can make them feel uncomfortable.
+3. Swelling: In some cases, urticaria can lead to swelling of the skin, particularly around the eyes and mouth.
+4. Pain: Some people with urticaria report pain or discomfort when they first encounter the rash.
+
+There are several types of urticaria, including:
+
+- Contact urticaria: This occurs when the",0.0,False,0.0
+Base,Allergic Rhinitis,False,"Allergic rhinitis is an allergic reaction to allergens in the environment that affects the nasal passages and can cause symptoms such as sneezing, runny nose, itchy eyes, and watery or red eyes. It's important to note that allergies can be caused by many different substances, including dust mites, pet dander, pollen, mold, and certain foods.
+
+The most common causes of allergic rhinitis include:
+
+1. Dust mites: These tiny insects live in our homes and can trigger allergic reactions.
+2. Pet dander: Cats, dogs, and other pets shed their skin cells into the air, which can irritate the respiratory system.
+3. Pollen: Plants release pollen during spring and summer, especially when they flower.
+4. Mold: Mold spores can be found in damp environments like basements or bathrooms.
+5. Certain foods: Some people may have an intolerance to specific ingredients in food, leading to allergic reactions.
+
+Symptoms of allergic rh",0.0,True,0.5555555555555556
+Base,Peptic Ulcer Disease,False,"Peptic ulcer disease is a condition in which the lining of the stomach or the small intestine becomes damaged and forms a hole called an ulcer. This can lead to pain, bleeding, and other symptoms.
+
+The most common types of peptic ulcers include:
+
+1. Duodenal ulcers: These occur on the surface of the duodenum, the first part of the large intestine.
+2. Gastroesophageal reflux disease (GERD): This occurs when stomach acid flows back into the esophagus, causing irritation and inflammation.
+3. Lesser curvature gastric ulcers: These are located in the lesser curvature of the stomach, where they may be more difficult to treat due to their location.
+4. Greater curvature gastric ulcers: These are located in the greater curvature of the stomach, which can cause more severe pain and complications.
+
+Treatment for peptic ulcer disease typically involves medications such as proton pump inhibitors (PPIs) and/or antibiotics to reduce stomach acid production and prevent ulcers",0.0,True,0.0
+Base,Appendicitis,False,"Appendicitis is an inflammation of the appendix, which is a small, finger-like organ located in the lower right part of the abdomen. The appendix plays a crucial role in the digestive system as it helps to store and process waste from the large intestine.
+
+The symptoms of appendicitis can vary depending on the severity of the condition but may include:
+
+1. Pain or discomfort in the lower right side of the abdomen that lasts for more than 24 hours.
+2. Fever, chills, and other signs of infection.
+3. Nausea and vomiting.
+4. Abdominal cramping or pain.
+5. Fatigue or weakness.
+
+If left untreated, appendicitis can lead to complications such as perforation (where the appendix tears through the wall of the abdominal cavity), which requires immediate medical attention. In some cases, appendicitis can be treated with antibiotics if there's no evidence of infection.
+
+It's important to note that while appendicitis is treatable, it",0.0,True,0.2857142857142857
+Base,Gallstones,False,"Gallstones are small stones that form in the gallbladder, which is a pear-shaped organ located in the upper right part of the abdomen. The gallbladder stores and concentrates bile, a yellowish-green fluid produced by the liver that helps to digest food.
+
+When there are too many gallstones in the gallbladder, they can cause pain in the upper right side of the abdomen, known as the epigastric region. This pain is often described as a dull ache or a burning sensation. Other symptoms may include nausea, vomiting, fever, and jaundice (yellowing of the skin and eyes).
+
+The most common type of gallstone is胆固醇（胆固醇），which refers to cholesterol. However, other types of gallstones can also be present, including bilirubin, calcium, and urokinase inhibitors.
+
+Treatment for gallstones typically involves medications such as antibiotics, anticoagulants, or proton pump inhibitors to reduce inflammation and prevent further stone formation.",0.0,True,0.16666666666666666
+Fine-tuned,Type 2 Diabetes,True,"**Disease:** Type 2 Diabetes
+**Symptoms:** increased thirst, frequent urination, fatigue, blurred vision.
+**Causes:** insulin resistance, excess body weight, physical inactivity.
+**Prescription:** metformin (generic), dose set by a doctor.
+**Treatment:** balanced diet, regular exercise, blood sugar monitoring.
+
+*Synthetic educational data, not medical advice.*",1.0,True,1.0
+Fine-tuned,Hypertension,True,"**Disease:** Hypertension
+**Symptoms:** often no symptoms, headache, dizziness, nosebleeds in severe cases.
+**Causes:** high salt intake, obesity, ageing, chronic stress.
+**Prescription:** amlodipine or losartan (generic), dose set by a doctor.
+**Treatment:** low-salt diet, regular exercise, limiting alcohol, regular blood pressure checks.
+
+*Synthetic educational data, not medical advice.*",1.0,True,1.0
+Fine-tuned,Asthma,True,"**Disease:** Asthma
+**Symptoms:** wheezing, shortness of breath, chest tightness, night-time cough.
+**Causes:** allergens, respiratory infections, air pollution, genetic predisposition.
+**Prescription:** salbutamol reliever and inhaled corticosteroid controller.
+**Treatment:** avoiding triggers, asthma action plan, correct inhaler technique.
+
+*Synthetic educational data, not medical advice.*",1.0,True,1.0
+Fine-tuned,Migraine,True,"**Disease:** Migraine
+**Symptoms:** throbbing one-sided headache, nausea, light sensitivity.
+**Causes:** hormonal changes, poor sleep, stress, certain foods.
+**Prescription:** sumatriptan (generic) for attacks, dose set by a doctor.
+**Treatment:** rest in a dark room, regular sleep, hydration, trigger diary.
+
+*Synthetic educational data, not medical advice.*",1.0,True,1.0
+Fine-tuned,Urinary Tract Infection,True,"**Disease:** Urinary Tract Infection
+**Symptoms:** burning urination, frequent urge to urinate, cloudy urine.
+**Causes:** bacteria such as E. coli entering the urinary tract.
+**Prescription:** nitrofurantoin or trimethoprim (generic) course, as prescribed.
+**Treatment:** completing the full course, drinking plenty of water.
+
+*Synthetic educational data, not medical advice.*",1.0,True,1.0
+Fine-tuned,Urticaria (Hives),False,"**Disease:** Urticaria (Hives)
+**Symptoms:** red wheals with oozing, often itchy rash
+**Causes:** allergens, infections, stress
+**Prescription:** antihistamine (generic), dose set by a doctor
+**Treatment:** avoiding triggers, treating stress, steroid cream application
+
+*Synthetic educational data, not medical advice.*",1.0,True,0.375
+Fine-tuned,Allergic Rhinitis,False,"**Disease:** Allergic Rhinitis
+**Symptoms:** sneezing, itchy nose, runny nose, reddened eyes.
+**Causes:** allergens (dust, pet dander) triggering the immune system.
+**Prescription:** antihistamines (generic) to relieve symptoms.
+**Treatment:** avoiding triggers, staying hydrated, using nasal saline rinses.
+
+*Synthetic educational data, not medical advice.*",1.0,True,0.4444444444444444
+Fine-tuned,Peptic Ulcer Disease,False,"**Disease:** Peptic Ulcer Disease
+**Symptoms:** acid pain or heartburn, nausea, loss of appetite.
+**Causes:** stomach acid flowing back into the胃(upper stomach), obesity, long standing alcohol use.
+**Prescription:** omeprazole (generic), dose set by a doctor.
+**Treatment:** smaller meals, avoiding spicy foods, taking omeprazole daily.
+
+*Synthetic educational data, not medical advice.*",1.0,True,0.125
+Fine-tuned,Appendicitis,False,"**Disease:** Appendicitis
+**Symptoms:** usually pain in the lower right abdomen that gets worse on straining, bowel or light food sometimes.
+**Causes:** infection from bacteria such as E. coli, poor diet, obesity, history of appendiceal surgery.
+**Prescription:** metronidazole (Doxaner), a broad-spectrum antibiotic typically prescribed.
+**Treatment:** rest, hydration, pain management, urgent surgical consultation for severe symptoms.
+
+*Synthetic educational data, not medical advice.*",1.0,True,0.14285714285714285
+Fine-tuned,Gallstones,False,"**Disease:** Gallstones
+**Symptoms:** pain in the upper right back, nausea, fever.
+**Causes:** high cholesterol, diabetes, old age, large meals.
+**Prescription:** sodium citrate (generic), dose set by a doctor.
+**Treatment:** high fiber day, plenty of water, rest, sodium citrate (generic) as prescribed.
+
+*Synthetic educational data, not medical advice.*",1.0,True,0.16666666666666666
+Base + RAG,Type 2 Diabetes,True,"Type 2 diabetes is characterized by symptoms such as increased thirst, frequent urination, fatigue, and blurred vision. It is primarily caused by insulin resistance, excess body weight, and physical inactivity. Treatment typically involves metformin, which is prescribed by a doctor, along with a balanced diet and regular exercise to manage blood sugar levels effectively.",0.0,True,0.9
+Base + RAG,Hypertension,True,"Hypertension is a condition characterized by elevated blood pressure levels that can lead to various symptoms such as headaches, dizziness, and nosebleeds. It is primarily associated with factors like high sodium intake, obesity, aging, and chronic stress. Treatment typically involves the use of medications like amlodipine or losartan, which are prescribed by doctors based on their individual needs. Additionally, lifestyle modifications such as a low-salt diet, regular physical activity, and periodic blood pressure monitoring are recommended for managing hypertension effectively.",0.0,True,0.4166666666666667
+Base + RAG,Asthma,True,"Asthma is an inflammatory lung disease characterized by episodes of wheezing, shortness of breath, chest tightness, and sometimes coughing at night. It can be triggered by various factors such as allergens, respiratory infections, air pollution, or genetic predispositions. The treatment typically involves the use of a reliever medication (such as salbutamol) and an inhaled corticosteroid (like fluticasone), along with avoidance of triggers and adherence to an asthma action plan. Proper inhalation techniques are also crucial for effective management.",0.0,True,0.7272727272727273
+Base + RAG,Migraine,True,"A condition characterized by throbbing, one-sided headaches accompanied by nausea and light sensitivity, often triggered by hormonal changes, poor sleep, stress, or certain foods. Treatment typically involves the use of sumatriptan (generic) for acute attacks, which can be adjusted based on individual response and adherence to prescribed medication regimen. Additionally, maintaining adequate rest, ensuring adequate sleep, drinking plenty of water, and avoiding triggers such as specific foods and medications are recommended strategies for managing migraine symptoms.",0.0,True,0.5454545454545454
+Base + RAG,Urinary Tract Infection,True,"A urinary tract infection occurs when bacteria enter the urinary tract and cause inflammation. Symptoms include burning during urination, urgency to urinate, and cloudy urine. Treatment typically involves antibiotics like nitrofurantoin or trimethoprim, which are prescribed according to the doctor's instructions, along with adequate fluid intake and regular bathroom visits.",0.0,True,0.16666666666666666
+Base + RAG,Urticaria (Hives),False,"Urticaria (Hives) is an allergic reaction characterized by itchy raised welts that appear suddenly and often last for several hours to days. The cause can be triggered by various factors such as allergies, infections, stress, or unknown triggers. Treatment typically involves the use of antihistamines like cetirizine, which are prescribed according to the doctor's instructions. Additionally, avoidance of known triggers and application of cool compresses may also help manage symptoms. Urgent medical assistance should be sought if there is facial or throat swelling.",0.0,True,0.5
+Base + RAG,Allergic Rhinitis,False,"Allergic rhinitis is an allergic reaction to environmental allergens such as pollen, dust mites, and pet dander. Symptoms include sneezing, itchy nose, and runny nose. Treatment typically involves the use of antihistamines or nasal steroids, which are prescribed according to instructions. Additionally, avoidance of allergens, saline rinses, and air filters can help manage symptoms effectively.",0.0,True,0.7777777777777778
+Base + RAG,Peptic Ulcer Disease,False,"Peptic ulcer disease is an inflammation of the lining of the stomach or duodenum that can develop from various causes, primarily due to Helicobacter pylori infection and NSAID use. The primary symptom is persistent abdominal pain, which may be accompanied by bloating, nausea, and sometimes vomiting. Treatment typically involves the use of proton pump inhibitors combined with antibiotics for H. pylori infection, along with avoidance of NSAIDs, alcohol, and smoking. Completing the prescribed regimen is crucial for effective management of the condition.",0.0,True,0.5
+Base + RAG,Appendicitis,False,"Appendicitis is an abdominal condition characterized by pain that starts in the lower right quadrant of the abdomen and moves to the lower left side, often accompanied by fever and vomiting. The primary cause is typically the obstruction of the appendix by fecal matter or infection. Treatment involves surgical removal of the appendix followed by antibiotic therapy and urgent surgical intervention.",0.0,True,0.2857142857142857
+Base + RAG,Gallstones,False,"Gallstones are small, solid deposits of cholesterol and other substances that form in the gallbladder. These deposits can cause discomfort, such as pain in the upper right abdomen after eating fatty foods, which may be accompanied by nausea. Treatment typically involves the use of an enzyme called Ursodeoxycholic Acid (Ursa D), which is prescribed for certain cases and recommended alongside a low-fat diet, weight loss, and surgical intervention if symptoms are present.",0.0,True,0.3333333333333333
+Fine-tuned + RAG,Type 2 Diabetes,True,"**Disease:** Type 2 Diabetes
+**Symptoms:** increased thirst, frequent urination, fatigue, blurred vision.
+**Causes:** insulin resistance, excess body weight, physical inactivity.
+**Prescription:** metformin (generic), dose set by a doctor.
+**Treatment:** balanced diet, regular exercise, blood sugar monitoring.
+
+*Synthetic educational data, not medical advice.*",1.0,True,1.0
+Fine-tuned + RAG,Hypertension,True,"**Disease:** Hypertension
+**Symptoms:** often no symptoms, headache, dizziness, nosebleeds in severe cases.
+**Causes:** high salt intake, obesity, ageing, chronic stress.
+**Prescription:** amlodipine or losartan (generic), dose set by a doctor.
+**Treatment:** low-salt diet, regular exercise, limiting alcohol, regular blood pressure checks.
+
+*Synthetic educational data, not medical advice.*",1.0,True,1.0
+Fine-tuned + RAG,Asthma,True,"**Disease:** Asthma
+**Symptoms:** wheezing, shortness of breath, chest tightness, night-time cough.
+**Causes:** allergens, respiratory infections, air pollution, genetic predisposition.
+**Prescription:** salbutamol reliever and inhaled corticosteroid controller.
+**Treatment:** avoiding triggers, asthma action plan, correct inhaler technique.
+
+*Synthetic educational data, not medical advice.*",1.0,True,1.0
+Fine-tuned + RAG,Migraine,True,"**Disease:** Migraine
+**Symptoms:** throbbing one-sided headache, nausea, light sensitivity.
+**Causes:** hormonal changes, poor sleep, stress, certain foods.
+**Prescription:** sumatriptan (generic) for attacks, dose set by a doctor.
+**Treatment:** rest in a dark room, regular sleep, hydration, trigger diary.
+
+*Synthetic educational data, not medical advice.*",1.0,True,1.0
+Fine-tuned + RAG,Urinary Tract Infection,True,"**Disease:** Urinary Tract Infection
+**Symptoms:** burning urination, frequent urge to urinate, cloudy urine.
+**Causes:** bacteria such as E. coli entering the urinary tract.
+**Prescription:** nitrofurantoin or trimethoprim (generic) course, as prescribed.
+**Treatment:** completing the full course, drinking plenty of water.
+
+*Synthetic educational data, not medical advice.*",1.0,True,1.0
+Fine-tuned + RAG,Urticaria (Hives),False,"**Disease:** Urticaria (Hives)
+**Symptoms:** itchy raised welts that come and go.
+**Causes:** allergic reactions, infections, stress, unknown triggers.
+**Prescription:** antihistamine such as cetirizine (generic), as directed.
+**Treatment:** avoiding triggers, cool compresses, urgent help for face or throat swelling.
+
+*Synthetic educational data, not medical advice.*",1.0,True,1.0
+Fine-tuned + RAG,Allergic Rhinitis,False,"**Disease:** Allergic Rhinitis
+**Symptoms:** sneezing, itchy nose and eyes, runny nose.
+**Causes:** pollen, dust mites, pet dander.
+**Prescription:** antihistamine or nasal steroid spray, as directed.
+**Treatment:** allergen avoidance, saline rinses, air filters.
+
+*Synthetic educational data, not medical advice.*",1.0,True,1.0
+Fine-tuned + RAG,Peptic Ulcer Disease,False,"**Disease:** Peptic Ulcer Disease
+**Symptoms:** burning stomach pain, bloating, nausea.
+**Causes:** H. pylori infection, NSAID use.
+**Prescription:** proton pump inhibitor with antibiotics for H. pylori.
+**Treatment:** avoiding NSAIDs, alcohol and smoking, completing treatment.
+
+*Synthetic educational data, not medical advice.*",1.0,True,1.0
+Fine-tuned + RAG,Appendicitis,False,"**Disease:** Appendicitis
+**Symptoms:** pain starting near the navel and moving to the lower right, fever, vomiting.
+**Causes:** blockage of the appendix by faeces or infection.
+**Prescription:** surgical removal (appendectomy) with antibiotics, along with urgent surgical assessment, rest, fluids before surgery.
+**Treatment:** urgent surgical assessment, rest, fluids before surgery.
+
+*Synthetic educational data, not medical advice.*",1.0,True,1.0
+Fine-tuned + RAG,Gallstones,False,"**Disease:** Gallstones
+**Symptoms:** pain in the upper right abdomen after fatty meals, nausea.
+**Causes:** cholesterol or pigment stones in the gallbladder.
+**Prescription:** ursodeoxycholic acid (generic) in selected cases, as prescribed.
+**Treatment:** low-fat diet, weight management, surgery if symptomatic.
+
+*Synthetic educational data, not medical advice.*",1.0,True,1.0
