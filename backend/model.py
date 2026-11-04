@@ -33,7 +33,7 @@ class Generator:
             [{"role": "user", "content": make_user(question, context)}],
             tokenize=False, add_generation_prompt=True)
         enc = self.tok(text, return_tensors="pt").to(self.device)
-        out = self.model.generate(**enc, max_new_tokens=200, do_sample=False,
+        out = self.model.generate(**enc, max_new_tokens=300, do_sample=False,
                                   pad_token_id=self.tok.eos_token_id)
         raw = self.tok.decode(out[0][enc["input_ids"].shape[1]:], skip_special_tokens=True).strip()
         return clean(raw)

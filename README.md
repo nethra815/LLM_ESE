@@ -3,7 +3,7 @@
 A chatbot that answers questions about 100 synthetic diseases in a fixed five-section format
 (Disease, Symptoms, Causes, Prescription, Treatment).
 
-- **Retrieval:** `all-MiniLM-L6-v2` embeddings over one paragraph per disease in `data/disease_knowledge_base_100.docx`.
+- **Retrieval:** `all-MiniLM-L6-v2` embeddings over `data/disease_knowledge_base_complex.docx` retrieve the top 3 disease candidates, then `cross-encoder/ms-marco-MiniLM-L-6-v2` reranks them before generation.
 - **Generation:** Qwen2.5-0.5B-Instruct with a LoRA adapter fine-tuned on 10 diseases (80 examples).
 - **Frontend:** a plain HTML/JS chat page served by the same FastAPI app.
 
@@ -31,7 +31,7 @@ pip install -r requirements.txt
 uvicorn backend.app:app --reload --port 8000
 ```
 
-Open http://localhost:8000. The first start downloads the base model and the embedding model.
+Open http://localhost:8000. The first start downloads the base model, embedding model, and cross-encoder reranker.
 
 ### Configuration (environment variables)
 
@@ -39,8 +39,9 @@ Open http://localhost:8000. The first start downloads the base model and the emb
 |---|---|---|
 | `BASE_MODEL` | `Qwen/Qwen2.5-0.5B-Instruct` | Base LLM from Hugging Face |
 | `ADAPTER_DIR` | `adapters/disease-lora-fewshot` | Path to the LoRA adapter |
-| `KB_PATH` | `data/disease_knowledge_base_100.docx` | Knowledge base document |
+| `KB_PATH` | `data/disease_knowledge_base_complex.docx` | Knowledge base document |
 | `MIN_SCORE` | `0.35` | Below this similarity the bot says the condition is unknown |
+| `RERANK_MODEL` | `cross-encoder/ms-marco-MiniLM-L-6-v2` | Cross-encoder used to rerank the top 3 dense candidates |
 
 ## API
 
@@ -70,5 +71,6 @@ Public deployment URL: **<INSERT DEPLOYMENT URL>**
 
 - Scores come from a synthetic, uniform-style knowledge base. They do not show clinical accuracy.
 - The `MIN_SCORE` threshold is not validated on real user questions.
+- Dense retrieval currently sends the top 3 candidates to the cross-encoder for reranking.
 - Three of 100 answers omitted the "Treatment" header in the reported run.
 - The model is small (0.5B parameters) and may produce fluent but unsupported text when context is missing.

@@ -10,10 +10,11 @@ from backend.model import Generator
 
 BASE_MODEL = os.getenv("BASE_MODEL", "Qwen/Qwen2.5-0.5B-Instruct")
 ADAPTER_DIR = os.getenv("ADAPTER_DIR", "adapters/disease-lora-fewshot")
-KB_PATH = os.getenv("KB_PATH", "data/disease_knowledge_base_100.docx")
+KB_PATH = os.getenv("KB_PATH", "data/disease_knowledge_base_complex.docx")
 # Questions whose best paragraph scores below this are treated as out of scope.
 # This threshold is a starting value and has not been validated; tune it on real questions.
 MIN_SCORE = float(os.getenv("MIN_SCORE", "0.35"))
+RERANK_MODEL = os.getenv("RERANK_MODEL", "cross-encoder/ms-marco-MiniLM-L-6-v2")
 DEVICE = "cuda" if torch.cuda.is_available() else "cpu"
 
 app = FastAPI(title="Disease RAG Chatbot")
@@ -26,7 +27,7 @@ class ChatIn(BaseModel):
 
 @app.on_event("startup")
 def load():
-    state["rag"] = DiseaseRAG(KB_PATH)
+    state["rag"] = DiseaseRAG(KB_PATH, rerank_model=RERANK_MODEL, retrieval_k=3)
     state["gen"] = Generator(BASE_MODEL, ADAPTER_DIR, DEVICE)
 
 
