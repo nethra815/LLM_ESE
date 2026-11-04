@@ -15,6 +15,8 @@ KB_PATH = os.getenv("KB_PATH", "data/disease_knowledge_base_complex.docx")
 # This threshold is a starting value and has not been validated; tune it on real questions.
 MIN_SCORE = float(os.getenv("MIN_SCORE", "0.35"))
 RERANK_MODEL = os.getenv("RERANK_MODEL", "cross-encoder/ms-marco-MiniLM-L-6-v2")
+CHROMA_DIR = os.getenv("CHROMA_DIR", "chroma")
+CHROMA_COLLECTION = os.getenv("CHROMA_COLLECTION", "disease_knowledge")
 DEVICE = "cuda" if torch.cuda.is_available() else "cpu"
 
 app = FastAPI(title="Disease RAG Chatbot")
@@ -27,7 +29,13 @@ class ChatIn(BaseModel):
 
 @app.on_event("startup")
 def load():
-    state["rag"] = DiseaseRAG(KB_PATH, rerank_model=RERANK_MODEL, retrieval_k=3)
+    state["rag"] = DiseaseRAG(
+        KB_PATH,
+        rerank_model=RERANK_MODEL,
+        retrieval_k=3,
+        chroma_dir=CHROMA_DIR,
+        collection_name=CHROMA_COLLECTION,
+    )
     state["gen"] = Generator(BASE_MODEL, ADAPTER_DIR, DEVICE)
 
 
